@@ -1,6002 +1,6002 @@
 [
   {
     "id": 0,
-    "customer_id": 26,
-    "total": 434.29,
-    "date": "2023-01-11"
+    "customer_id": 81,
+    "total": 611.98,
+    "date": "2023-03-07"
   },
   {
     "id": 1,
-    "customer_id": 48,
-    "total": 801.34,
-    "date": "2023-01-27"
+    "customer_id": 25,
+    "total": 221.52,
+    "date": "2023-03-18"
   },
   {
     "id": 2,
-    "customer_id": 10,
-    "total": 452.4,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 3,
-    "customer_id": 99,
-    "total": 535.74,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 4,
-    "customer_id": 35,
-    "total": 42.43,
-    "date": "2023-01-14"
-  },
-  {
-    "id": 5,
-    "customer_id": 47,
-    "total": 846.61,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 6,
-    "customer_id": 100,
-    "total": 161.72,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 7,
-    "customer_id": 37,
-    "total": 96.67,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 8,
-    "customer_id": 77,
-    "total": 314.91,
+    "customer_id": 44,
+    "total": 701.4,
     "date": "2023-02-12"
   },
   {
+    "id": 3,
+    "customer_id": 8,
+    "total": 755.68,
+    "date": "2023-01-07"
+  },
+  {
+    "id": 4,
+    "customer_id": 4,
+    "total": 514.04,
+    "date": "2023-03-27"
+  },
+  {
+    "id": 5,
+    "customer_id": 44,
+    "total": 221.55,
+    "date": "2023-02-15"
+  },
+  {
+    "id": 6,
+    "customer_id": 15,
+    "total": 183.39,
+    "date": "2023-03-20"
+  },
+  {
+    "id": 7,
+    "customer_id": 39,
+    "total": 246.02,
+    "date": "2023-01-30"
+  },
+  {
+    "id": 8,
+    "customer_id": 7,
+    "total": 233.07,
+    "date": "2023-03-27"
+  },
+  {
     "id": 9,
-    "customer_id": 46,
-    "total": 575.76,
-    "date": "2023-01-28"
+    "customer_id": 87,
+    "total": 284.64,
+    "date": "2023-03-05"
   },
   {
     "id": 10,
-    "customer_id": 56,
-    "total": 24.38,
-    "date": "2023-02-03"
+    "customer_id": 45,
+    "total": 379.95,
+    "date": "2023-02-28"
   },
   {
     "id": 11,
-    "customer_id": 1,
-    "total": 181.86,
-    "date": "2023-02-10"
+    "customer_id": 23,
+    "total": 639.43,
+    "date": "2023-02-23"
   },
   {
     "id": 12,
-    "customer_id": 37,
-    "total": 330.79,
-    "date": "2023-02-05"
+    "customer_id": 9,
+    "total": 518.66,
+    "date": "2023-02-20"
   },
   {
     "id": 13,
-    "customer_id": 76,
-    "total": 993.34,
-    "date": "2023-02-02"
+    "customer_id": 92,
+    "total": 74.39,
+    "date": "2023-03-17"
   },
   {
     "id": 14,
-    "customer_id": 10,
-    "total": 999.78,
-    "date": "2023-01-24"
+    "customer_id": 33,
+    "total": 451.64,
+    "date": "2023-03-08"
   },
   {
     "id": 15,
-    "customer_id": 89,
-    "total": 691.54,
-    "date": "2023-02-22"
+    "customer_id": 46,
+    "total": 144.23,
+    "date": "2023-02-13"
   },
   {
     "id": 16,
-    "customer_id": 79,
-    "total": 72.46,
+    "customer_id": 76,
+    "total": 509.77,
     "date": "2023-02-03"
   },
   {
     "id": 17,
-    "customer_id": 43,
-    "total": 907.17,
-    "date": "2023-02-06"
+    "customer_id": 77,
+    "total": 492.25,
+    "date": "2023-02-08"
   },
   {
     "id": 18,
-    "customer_id": 97,
-    "total": 236.75,
-    "date": "2023-01-20"
+    "customer_id": 21,
+    "total": 953.11,
+    "date": "2023-02-21"
   },
   {
     "id": 19,
-    "customer_id": 27,
-    "total": 953.67,
-    "date": "2023-02-26"
+    "customer_id": 43,
+    "total": 242.52,
+    "date": "2023-02-01"
   },
   {
     "id": 20,
-    "customer_id": 45,
-    "total": 644.94,
-    "date": "2023-02-05"
+    "customer_id": 63,
+    "total": 72.51,
+    "date": "2023-01-04"
   },
   {
     "id": 21,
-    "customer_id": 54,
-    "total": 78.2,
-    "date": "2023-01-11"
+    "customer_id": 21,
+    "total": 520.96,
+    "date": "2023-02-07"
   },
   {
     "id": 22,
-    "customer_id": 45,
-    "total": 707.11,
-    "date": "2023-01-13"
+    "customer_id": 49,
+    "total": 820.45,
+    "date": "2023-02-20"
   },
   {
     "id": 23,
-    "customer_id": 55,
-    "total": 826.05,
-    "date": "2023-01-17"
+    "customer_id": 60,
+    "total": 670.21,
+    "date": "2023-02-03"
   },
   {
     "id": 24,
-    "customer_id": 1,
-    "total": 753.66,
-    "date": "2023-01-22"
+    "customer_id": 53,
+    "total": 262.75,
+    "date": "2023-01-04"
   },
   {
     "id": 25,
-    "customer_id": 58,
-    "total": 531.61,
-    "date": "2023-02-23"
+    "customer_id": 70,
+    "total": 155.23,
+    "date": "2023-03-03"
   },
   {
     "id": 26,
-    "customer_id": 34,
-    "total": 636.65,
-    "date": "2023-01-09"
+    "customer_id": 46,
+    "total": 673.79,
+    "date": "2023-02-11"
   },
   {
     "id": 27,
-    "customer_id": 24,
-    "total": 276.95,
-    "date": "2023-02-13"
+    "customer_id": 89,
+    "total": 197.28,
+    "date": "2023-03-05"
   },
   {
     "id": 28,
-    "customer_id": 67,
-    "total": 999.37,
-    "date": "2023-01-05"
+    "customer_id": 71,
+    "total": 261.76,
+    "date": "2023-01-30"
   },
   {
     "id": 29,
-    "customer_id": 95,
-    "total": 781.61,
-    "date": "2023-01-16"
+    "customer_id": 40,
+    "total": 841.48,
+    "date": "2023-03-11"
   },
   {
     "id": 30,
-    "customer_id": 18,
-    "total": 264.87,
-    "date": "2023-02-16"
+    "customer_id": 19,
+    "total": 645.69,
+    "date": "2023-01-01"
   },
   {
     "id": 31,
-    "customer_id": 39,
-    "total": 844.31,
-    "date": "2023-02-18"
+    "customer_id": 76,
+    "total": 255.73,
+    "date": "2023-03-12"
   },
   {
     "id": 32,
-    "customer_id": 53,
-    "total": 51.1,
-    "date": "2023-01-14"
+    "customer_id": 59,
+    "total": 441.72,
+    "date": "2023-01-15"
   },
   {
     "id": 33,
-    "customer_id": 70,
-    "total": 996,
-    "date": "2023-01-25"
+    "customer_id": 90,
+    "total": 632.23,
+    "date": "2023-01-18"
   },
   {
     "id": 34,
-    "customer_id": 91,
-    "total": 501.98,
-    "date": "2023-02-17"
+    "customer_id": 59,
+    "total": 553.95,
+    "date": "2023-02-19"
   },
   {
     "id": 35,
-    "customer_id": 91,
-    "total": 789.33,
+    "customer_id": 25,
+    "total": 193.12,
     "date": "2023-02-25"
   },
   {
     "id": 36,
-    "customer_id": 10,
-    "total": 908.2,
-    "date": "2023-02-19"
+    "customer_id": 63,
+    "total": 381.76,
+    "date": "2023-02-01"
   },
   {
     "id": 37,
-    "customer_id": 15,
-    "total": 384.8,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 38,
-    "customer_id": 49,
-    "total": 876.58,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 39,
-    "customer_id": 47,
-    "total": 467.32,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 40,
-    "customer_id": 48,
-    "total": 697.19,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 41,
-    "customer_id": 92,
-    "total": 969.88,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 42,
-    "customer_id": 64,
-    "total": 462.2,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 43,
-    "customer_id": 1,
-    "total": 560.95,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 44,
-    "customer_id": 51,
-    "total": 244.76,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 45,
-    "customer_id": 40,
-    "total": 658.79,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 46,
-    "customer_id": 12,
-    "total": 778.03,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 47,
-    "customer_id": 54,
-    "total": 775.94,
-    "date": "2023-01-27"
-  },
-  {
-    "id": 48,
-    "customer_id": 59,
-    "total": 894.38,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 49,
-    "customer_id": 5,
-    "total": 784.8,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 50,
-    "customer_id": 22,
-    "total": 582.89,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 51,
-    "customer_id": 92,
-    "total": 486.39,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 52,
-    "customer_id": 100,
-    "total": 94.02,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 53,
-    "customer_id": 52,
-    "total": 204.53,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 54,
-    "customer_id": 15,
-    "total": 39.74,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 55,
     "customer_id": 14,
-    "total": 249.98,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 56,
-    "customer_id": 73,
-    "total": 886.12,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 57,
-    "customer_id": 64,
-    "total": 514.37,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 58,
-    "customer_id": 26,
-    "total": 207.67,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 59,
-    "customer_id": 22,
-    "total": 155.64,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 60,
-    "customer_id": 97,
-    "total": 54.76,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 61,
-    "customer_id": 92,
-    "total": 682.61,
-    "date": "2023-02-13"
-  },
-  {
-    "id": 62,
-    "customer_id": 84,
-    "total": 491.73,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 63,
-    "customer_id": 76,
-    "total": 757.23,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 64,
-    "customer_id": 100,
-    "total": 247.37,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 65,
-    "customer_id": 30,
-    "total": 464.45,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 66,
-    "customer_id": 47,
-    "total": 372.22,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 67,
-    "customer_id": 95,
-    "total": 71.26,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 68,
-    "customer_id": 72,
-    "total": 499.36,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 69,
-    "customer_id": 87,
-    "total": 488.77,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 70,
-    "customer_id": 75,
-    "total": 927.14,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 71,
-    "customer_id": 31,
-    "total": 679.78,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 72,
-    "customer_id": 97,
-    "total": 567.81,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 73,
-    "customer_id": 67,
-    "total": 769.1,
-    "date": "2023-01-27"
-  },
-  {
-    "id": 74,
-    "customer_id": 97,
-    "total": 36.69,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 75,
-    "customer_id": 50,
-    "total": 711,
-    "date": "2023-02-16"
-  },
-  {
-    "id": 76,
-    "customer_id": 88,
-    "total": 606.69,
-    "date": "2023-02-08"
-  },
-  {
-    "id": 77,
-    "customer_id": 18,
-    "total": 30.85,
+    "total": 292.09,
     "date": "2023-01-15"
   },
   {
-    "id": 78,
-    "customer_id": 34,
-    "total": 987.72,
-    "date": "2023-01-30"
+    "id": 38,
+    "customer_id": 53,
+    "total": 213.48,
+    "date": "2023-02-05"
   },
   {
-    "id": 79,
-    "customer_id": 68,
-    "total": 124.08,
-    "date": "2023-01-09"
+    "id": 39,
+    "customer_id": 40,
+    "total": 597.08,
+    "date": "2023-03-21"
   },
   {
-    "id": 80,
-    "customer_id": 22,
-    "total": 796.91,
-    "date": "2023-02-10"
+    "id": 40,
+    "customer_id": 65,
+    "total": 529.53,
+    "date": "2023-01-02"
   },
   {
-    "id": 81,
-    "customer_id": 68,
-    "total": 842.21,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 82,
-    "customer_id": 37,
-    "total": 542.9,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 83,
-    "customer_id": 32,
-    "total": 737.77,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 84,
-    "customer_id": 78,
-    "total": 718.23,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 85,
-    "customer_id": 56,
-    "total": 301.21,
+    "id": 41,
+    "customer_id": 44,
+    "total": 811.22,
     "date": "2023-02-23"
   },
   {
-    "id": 86,
-    "customer_id": 47,
-    "total": 723.41,
+    "id": 42,
+    "customer_id": 60,
+    "total": 701,
+    "date": "2023-03-31"
+  },
+  {
+    "id": 43,
+    "customer_id": 88,
+    "total": 124.17,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 44,
+    "customer_id": 99,
+    "total": 790.86,
+    "date": "2023-01-22"
+  },
+  {
+    "id": 45,
+    "customer_id": 3,
+    "total": 978.37,
+    "date": "2023-02-01"
+  },
+  {
+    "id": 46,
+    "customer_id": 32,
+    "total": 359.82,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 47,
+    "customer_id": 81,
+    "total": 29.89,
+    "date": "2023-01-18"
+  },
+  {
+    "id": 48,
+    "customer_id": 88,
+    "total": 493.61,
+    "date": "2023-03-06"
+  },
+  {
+    "id": 49,
+    "customer_id": 58,
+    "total": 92.22,
+    "date": "2023-03-16"
+  },
+  {
+    "id": 50,
+    "customer_id": 25,
+    "total": 812.46,
     "date": "2023-01-08"
   },
   {
-    "id": 87,
-    "customer_id": 14,
-    "total": 52.24,
-    "date": "2023-01-23"
+    "id": 51,
+    "customer_id": 26,
+    "total": 617.45,
+    "date": "2023-02-05"
   },
   {
-    "id": 88,
-    "customer_id": 35,
-    "total": 777.95,
+    "id": 52,
+    "customer_id": 95,
+    "total": 447.28,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 53,
+    "customer_id": 89,
+    "total": 921.96,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 54,
+    "customer_id": 91,
+    "total": 767.65,
+    "date": "2023-02-10"
+  },
+  {
+    "id": 55,
+    "customer_id": 58,
+    "total": 166.56,
     "date": "2023-01-08"
   },
   {
-    "id": 89,
-    "customer_id": 13,
-    "total": 486.76,
+    "id": 56,
+    "customer_id": 89,
+    "total": 364.62,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 57,
+    "customer_id": 92,
+    "total": 350.92,
+    "date": "2023-03-21"
+  },
+  {
+    "id": 58,
+    "customer_id": 75,
+    "total": 528.16,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 59,
+    "customer_id": 66,
+    "total": 900.32,
+    "date": "2023-02-11"
+  },
+  {
+    "id": 60,
+    "customer_id": 71,
+    "total": 410.07,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 61,
+    "customer_id": 79,
+    "total": 123.2,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 62,
+    "customer_id": 97,
+    "total": 30.64,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 63,
+    "customer_id": 50,
+    "total": 143.15,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 64,
+    "customer_id": 99,
+    "total": 342.26,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 65,
+    "customer_id": 32,
+    "total": 898.51,
+    "date": "2023-02-09"
+  },
+  {
+    "id": 66,
+    "customer_id": 87,
+    "total": 466.54,
+    "date": "2023-02-25"
+  },
+  {
+    "id": 67,
+    "customer_id": 3,
+    "total": 546.72,
     "date": "2023-02-04"
   },
   {
+    "id": 68,
+    "customer_id": 35,
+    "total": 483.06,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 69,
+    "customer_id": 75,
+    "total": 448.85,
+    "date": "2023-02-25"
+  },
+  {
+    "id": 70,
+    "customer_id": 80,
+    "total": 675.62,
+    "date": "2023-02-24"
+  },
+  {
+    "id": 71,
+    "customer_id": 72,
+    "total": 665.81,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 72,
+    "customer_id": 70,
+    "total": 256.04,
+    "date": "2023-02-25"
+  },
+  {
+    "id": 73,
+    "customer_id": 75,
+    "total": 925.58,
+    "date": "2023-03-26"
+  },
+  {
+    "id": 74,
+    "customer_id": 85,
+    "total": 630.71,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 75,
+    "customer_id": 21,
+    "total": 762.88,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 76,
+    "customer_id": 22,
+    "total": 550.09,
+    "date": "2023-02-17"
+  },
+  {
+    "id": 77,
+    "customer_id": 34,
+    "total": 965.59,
+    "date": "2023-02-23"
+  },
+  {
+    "id": 78,
+    "customer_id": 69,
+    "total": 972.95,
+    "date": "2023-02-16"
+  },
+  {
+    "id": 79,
+    "customer_id": 4,
+    "total": 816.53,
+    "date": "2023-02-28"
+  },
+  {
+    "id": 80,
+    "customer_id": 12,
+    "total": 902.85,
+    "date": "2023-01-08"
+  },
+  {
+    "id": 81,
+    "customer_id": 32,
+    "total": 541.51,
+    "date": "2023-02-07"
+  },
+  {
+    "id": 82,
+    "customer_id": 95,
+    "total": 680.77,
+    "date": "2023-01-22"
+  },
+  {
+    "id": 83,
+    "customer_id": 26,
+    "total": 729.32,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 84,
+    "customer_id": 44,
+    "total": 456.55,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 85,
+    "customer_id": 10,
+    "total": 945.12,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 86,
+    "customer_id": 46,
+    "total": 171.23,
+    "date": "2023-03-10"
+  },
+  {
+    "id": 87,
+    "customer_id": 67,
+    "total": 368.6,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 88,
+    "customer_id": 3,
+    "total": 26.89,
+    "date": "2023-02-28"
+  },
+  {
+    "id": 89,
+    "customer_id": 22,
+    "total": 66.33,
+    "date": "2023-02-23"
+  },
+  {
     "id": 90,
-    "customer_id": 66,
-    "total": 363.58,
-    "date": "2023-01-23"
+    "customer_id": 12,
+    "total": 296.29,
+    "date": "2023-02-22"
   },
   {
     "id": 91,
-    "customer_id": 62,
-    "total": 213.56,
-    "date": "2023-02-12"
+    "customer_id": 47,
+    "total": 221.88,
+    "date": "2023-03-12"
   },
   {
     "id": 92,
-    "customer_id": 61,
-    "total": 310.23,
+    "customer_id": 24,
+    "total": 406.87,
     "date": "2023-02-06"
   },
   {
     "id": 93,
-    "customer_id": 99,
-    "total": 994.59,
-    "date": "2023-02-26"
+    "customer_id": 55,
+    "total": 181.15,
+    "date": "2023-02-06"
   },
   {
     "id": 94,
-    "customer_id": 71,
-    "total": 532.12,
-    "date": "2023-02-25"
+    "customer_id": 25,
+    "total": 383.56,
+    "date": "2023-02-16"
   },
   {
     "id": 95,
-    "customer_id": 4,
-    "total": 454.12,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 96,
-    "customer_id": 9,
-    "total": 985.58,
+    "customer_id": 70,
+    "total": 78.55,
     "date": "2023-01-01"
   },
   {
+    "id": 96,
+    "customer_id": 87,
+    "total": 357.42,
+    "date": "2023-03-12"
+  },
+  {
     "id": 97,
-    "customer_id": 84,
-    "total": 264.36,
-    "date": "2023-01-29"
+    "customer_id": 47,
+    "total": 155.53,
+    "date": "2023-01-18"
   },
   {
     "id": 98,
-    "customer_id": 36,
-    "total": 811.34,
-    "date": "2023-02-19"
+    "customer_id": 34,
+    "total": 325.8,
+    "date": "2023-02-08"
   },
   {
     "id": 99,
-    "customer_id": 63,
-    "total": 582.95,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 100,
-    "customer_id": 20,
-    "total": 371.99,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 101,
-    "customer_id": 30,
-    "total": 685.03,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 102,
-    "customer_id": 21,
-    "total": 101.75,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 103,
-    "customer_id": 31,
-    "total": 265.84,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 104,
-    "customer_id": 48,
-    "total": 468.62,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 105,
-    "customer_id": 26,
-    "total": 430.31,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 106,
-    "customer_id": 85,
-    "total": 481.98,
+    "customer_id": 25,
+    "total": 621.97,
     "date": "2023-02-17"
   },
   {
+    "id": 100,
+    "customer_id": 50,
+    "total": 166.35,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 101,
+    "customer_id": 58,
+    "total": 170.29,
+    "date": "2023-02-15"
+  },
+  {
+    "id": 102,
+    "customer_id": 3,
+    "total": 544.57,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 103,
+    "customer_id": 18,
+    "total": 572,
+    "date": "2023-03-07"
+  },
+  {
+    "id": 104,
+    "customer_id": 73,
+    "total": 328.59,
+    "date": "2023-01-14"
+  },
+  {
+    "id": 105,
+    "customer_id": 87,
+    "total": 451.83,
+    "date": "2023-01-26"
+  },
+  {
+    "id": 106,
+    "customer_id": 52,
+    "total": 146.38,
+    "date": "2023-01-14"
+  },
+  {
     "id": 107,
-    "customer_id": 28,
-    "total": 310.22,
-    "date": "2023-02-02"
+    "customer_id": 98,
+    "total": 255.88,
+    "date": "2023-01-10"
   },
   {
     "id": 108,
-    "customer_id": 23,
-    "total": 236.81,
-    "date": "2023-01-21"
+    "customer_id": 84,
+    "total": 379.95,
+    "date": "2023-01-13"
   },
   {
     "id": 109,
-    "customer_id": 70,
-    "total": 37.99,
-    "date": "2023-02-03"
+    "customer_id": 2,
+    "total": 333.85,
+    "date": "2023-01-27"
   },
   {
     "id": 110,
-    "customer_id": 69,
-    "total": 997.79,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 111,
-    "customer_id": 41,
-    "total": 546.29,
+    "customer_id": 6,
+    "total": 796.42,
     "date": "2023-01-07"
   },
   {
+    "id": 111,
+    "customer_id": 45,
+    "total": 598.01,
+    "date": "2023-03-16"
+  },
+  {
     "id": 112,
-    "customer_id": 36,
-    "total": 880.27,
-    "date": "2023-02-05"
+    "customer_id": 11,
+    "total": 997.57,
+    "date": "2023-03-08"
   },
   {
     "id": 113,
-    "customer_id": 44,
-    "total": 804.88,
-    "date": "2023-01-17"
+    "customer_id": 59,
+    "total": 992.36,
+    "date": "2023-02-15"
   },
   {
     "id": 114,
-    "customer_id": 11,
-    "total": 986.63,
-    "date": "2023-02-07"
+    "customer_id": 76,
+    "total": 123.38,
+    "date": "2023-02-01"
   },
   {
     "id": 115,
-    "customer_id": 22,
-    "total": 255,
-    "date": "2023-01-31"
+    "customer_id": 35,
+    "total": 111.11,
+    "date": "2023-01-28"
   },
   {
     "id": 116,
-    "customer_id": 3,
-    "total": 617.73,
+    "customer_id": 58,
+    "total": 272.21,
     "date": "2023-01-26"
   },
   {
     "id": 117,
-    "customer_id": 72,
-    "total": 557.54,
-    "date": "2023-02-14"
-  },
-  {
-    "id": 118,
-    "customer_id": 73,
-    "total": 749.41,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 119,
-    "customer_id": 66,
-    "total": 69.7,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 120,
-    "customer_id": 24,
-    "total": 255.07,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 121,
-    "customer_id": 76,
-    "total": 526.63,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 122,
-    "customer_id": 27,
-    "total": 719.24,
-    "date": "2023-01-14"
-  },
-  {
-    "id": 123,
     "customer_id": 62,
-    "total": 242.95,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 124,
-    "customer_id": 75,
-    "total": 684.33,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 125,
-    "customer_id": 10,
-    "total": 63.95,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 126,
-    "customer_id": 56,
-    "total": 650.99,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 127,
-    "customer_id": 48,
-    "total": 34.06,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 128,
-    "customer_id": 25,
-    "total": 339.71,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 129,
-    "customer_id": 95,
-    "total": 445.82,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 130,
-    "customer_id": 8,
-    "total": 495.27,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 131,
-    "customer_id": 63,
-    "total": 765.74,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 132,
-    "customer_id": 24,
-    "total": 467.48,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 133,
-    "customer_id": 14,
-    "total": 453.87,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 134,
-    "customer_id": 37,
-    "total": 875.69,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 135,
-    "customer_id": 94,
-    "total": 363.13,
-    "date": "2023-01-27"
-  },
-  {
-    "id": 136,
-    "customer_id": 21,
-    "total": 113.71,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 137,
-    "customer_id": 62,
-    "total": 931.81,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 138,
-    "customer_id": 15,
-    "total": 496.49,
-    "date": "2023-02-13"
-  },
-  {
-    "id": 139,
-    "customer_id": 28,
-    "total": 757.56,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 140,
-    "customer_id": 40,
-    "total": 344.47,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 141,
-    "customer_id": 63,
-    "total": 976.55,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 142,
-    "customer_id": 89,
-    "total": 566.7,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 143,
-    "customer_id": 81,
-    "total": 553.15,
-    "date": "2023-02-13"
-  },
-  {
-    "id": 144,
-    "customer_id": 6,
-    "total": 691.74,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 145,
-    "customer_id": 45,
-    "total": 942.42,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 146,
-    "customer_id": 79,
-    "total": 827.47,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 147,
-    "customer_id": 13,
-    "total": 278.82,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 148,
-    "customer_id": 97,
-    "total": 164.01,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 149,
-    "customer_id": 89,
-    "total": 868.14,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 150,
-    "customer_id": 79,
-    "total": 287.2,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 151,
-    "customer_id": 84,
-    "total": 967.07,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 152,
-    "customer_id": 39,
-    "total": 130.2,
-    "date": "2023-02-08"
-  },
-  {
-    "id": 153,
-    "customer_id": 22,
-    "total": 544.91,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 154,
-    "customer_id": 46,
-    "total": 122.84,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 155,
-    "customer_id": 41,
-    "total": 620.24,
-    "date": "2023-02-13"
-  },
-  {
-    "id": 156,
-    "customer_id": 65,
-    "total": 195.75,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 157,
-    "customer_id": 12,
-    "total": 985.47,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 158,
-    "customer_id": 36,
-    "total": 352.15,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 159,
-    "customer_id": 69,
-    "total": 244.46,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 160,
-    "customer_id": 40,
-    "total": 791.89,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 161,
-    "customer_id": 40,
-    "total": 314.21,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 162,
-    "customer_id": 25,
-    "total": 171.87,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 163,
-    "customer_id": 6,
-    "total": 683.96,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 164,
-    "customer_id": 10,
-    "total": 400.81,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 165,
-    "customer_id": 94,
-    "total": 644.74,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 166,
-    "customer_id": 45,
-    "total": 453.36,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 167,
-    "customer_id": 45,
-    "total": 946.67,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 168,
-    "customer_id": 86,
-    "total": 489.33,
-    "date": "2023-01-10"
-  },
-  {
-    "id": 169,
-    "customer_id": 62,
-    "total": 777.92,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 170,
-    "customer_id": 63,
-    "total": 304.19,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 171,
-    "customer_id": 51,
-    "total": 217.41,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 172,
-    "customer_id": 96,
-    "total": 491.94,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 173,
-    "customer_id": 36,
-    "total": 253.71,
-    "date": "2023-02-14"
-  },
-  {
-    "id": 174,
-    "customer_id": 28,
-    "total": 870.48,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 175,
-    "customer_id": 21,
-    "total": 839.52,
-    "date": "2023-02-16"
-  },
-  {
-    "id": 176,
-    "customer_id": 18,
-    "total": 447.51,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 177,
-    "customer_id": 64,
-    "total": 626.95,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 178,
-    "customer_id": 6,
-    "total": 321.44,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 179,
-    "customer_id": 12,
-    "total": 978.47,
-    "date": "2023-02-15"
-  },
-  {
-    "id": 180,
-    "customer_id": 72,
-    "total": 547.25,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 181,
-    "customer_id": 29,
-    "total": 500.8,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 182,
-    "customer_id": 18,
-    "total": 603.08,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 183,
-    "customer_id": 49,
-    "total": 798.94,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 184,
-    "customer_id": 21,
-    "total": 406.63,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 185,
-    "customer_id": 3,
-    "total": 891.11,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 186,
-    "customer_id": 23,
-    "total": 61.31,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 187,
-    "customer_id": 65,
-    "total": 995.77,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 188,
-    "customer_id": 53,
-    "total": 634.16,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 189,
-    "customer_id": 38,
-    "total": 235.26,
-    "date": "2023-01-17"
-  },
-  {
-    "id": 190,
-    "customer_id": 78,
-    "total": 684.11,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 191,
-    "customer_id": 17,
-    "total": 16.06,
-    "date": "2023-02-13"
-  },
-  {
-    "id": 192,
-    "customer_id": 0,
-    "total": 595.22,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 193,
-    "customer_id": 79,
-    "total": 801.52,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 194,
-    "customer_id": 55,
-    "total": 365.55,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 195,
-    "customer_id": 48,
-    "total": 139.61,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 196,
-    "customer_id": 6,
-    "total": 264.46,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 197,
-    "customer_id": 46,
-    "total": 949.56,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 198,
-    "customer_id": 78,
-    "total": 141.25,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 199,
-    "customer_id": 35,
-    "total": 636.17,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 200,
-    "customer_id": 25,
-    "total": 160.65,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 201,
-    "customer_id": 5,
-    "total": 490.29,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 202,
-    "customer_id": 97,
-    "total": 954.33,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 203,
-    "customer_id": 40,
-    "total": 607.35,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 204,
-    "customer_id": 51,
-    "total": 950.38,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 205,
-    "customer_id": 33,
-    "total": 702.93,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 206,
-    "customer_id": 73,
-    "total": 463.82,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 207,
-    "customer_id": 21,
-    "total": 111.13,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 208,
-    "customer_id": 44,
-    "total": 994.63,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 209,
-    "customer_id": 2,
-    "total": 16.04,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 210,
-    "customer_id": 38,
-    "total": 819.42,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 211,
-    "customer_id": 13,
-    "total": 47.81,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 212,
-    "customer_id": 50,
-    "total": 142.49,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 213,
-    "customer_id": 83,
-    "total": 978.38,
-    "date": "2023-02-15"
-  },
-  {
-    "id": 214,
-    "customer_id": 100,
-    "total": 657.7,
-    "date": "2023-02-04"
-  },
-  {
-    "id": 215,
-    "customer_id": 71,
-    "total": 322.23,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 216,
-    "customer_id": 71,
-    "total": 865.99,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 217,
-    "customer_id": 38,
-    "total": 381.36,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 218,
-    "customer_id": 84,
-    "total": 767.32,
-    "date": "2023-01-14"
-  },
-  {
-    "id": 219,
-    "customer_id": 6,
-    "total": 147.93,
-    "date": "2023-01-10"
-  },
-  {
-    "id": 220,
-    "customer_id": 66,
-    "total": 638.46,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 221,
-    "customer_id": 14,
-    "total": 868.1,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 222,
-    "customer_id": 26,
-    "total": 430.11,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 223,
-    "customer_id": 25,
-    "total": 404.51,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 224,
-    "customer_id": 33,
-    "total": 740.59,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 225,
-    "customer_id": 89,
-    "total": 206.73,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 226,
-    "customer_id": 48,
-    "total": 662.08,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 227,
-    "customer_id": 59,
-    "total": 546.51,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 228,
-    "customer_id": 58,
-    "total": 782.22,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 229,
-    "customer_id": 69,
-    "total": 260.64,
-    "date": "2023-01-14"
-  },
-  {
-    "id": 230,
-    "customer_id": 50,
-    "total": 723.09,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 231,
-    "customer_id": 99,
-    "total": 325.62,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 232,
-    "customer_id": 43,
-    "total": 418.27,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 233,
-    "customer_id": 20,
-    "total": 598.63,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 234,
-    "customer_id": 0,
-    "total": 870.98,
+    "total": 240.89,
     "date": "2023-01-13"
   },
   {
-    "id": 235,
-    "customer_id": 71,
-    "total": 423.55,
-    "date": "2023-01-08"
+    "id": 118,
+    "customer_id": 3,
+    "total": 999.44,
+    "date": "2023-01-03"
   },
   {
-    "id": 236,
+    "id": 119,
+    "customer_id": 10,
+    "total": 326.21,
+    "date": "2023-02-15"
+  },
+  {
+    "id": 120,
     "customer_id": 29,
-    "total": 201.28,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 237,
-    "customer_id": 27,
-    "total": 685.65,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 238,
-    "customer_id": 18,
-    "total": 670.42,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 239,
-    "customer_id": 40,
-    "total": 910.42,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 240,
-    "customer_id": 38,
-    "total": 289.17,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 241,
-    "customer_id": 33,
-    "total": 92.33,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 242,
-    "customer_id": 21,
-    "total": 422.48,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 243,
-    "customer_id": 68,
-    "total": 631.55,
+    "total": 945.35,
     "date": "2023-01-20"
   },
   {
-    "id": 244,
-    "customer_id": 10,
-    "total": 415.2,
-    "date": "2023-02-19"
+    "id": 121,
+    "customer_id": 33,
+    "total": 182.21,
+    "date": "2023-03-15"
   },
   {
-    "id": 245,
+    "id": 122,
+    "customer_id": 90,
+    "total": 670.07,
+    "date": "2023-02-06"
+  },
+  {
+    "id": 123,
+    "customer_id": 2,
+    "total": 342.79,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 124,
+    "customer_id": 64,
+    "total": 174.03,
+    "date": "2023-01-16"
+  },
+  {
+    "id": 125,
+    "customer_id": 4,
+    "total": 615.91,
+    "date": "2023-02-13"
+  },
+  {
+    "id": 126,
     "customer_id": 0,
-    "total": 846.66,
+    "total": 974.29,
+    "date": "2023-01-11"
+  },
+  {
+    "id": 127,
+    "customer_id": 80,
+    "total": 705.59,
+    "date": "2023-02-25"
+  },
+  {
+    "id": 128,
+    "customer_id": 63,
+    "total": 671.52,
+    "date": "2023-02-13"
+  },
+  {
+    "id": 129,
+    "customer_id": 88,
+    "total": 932.59,
+    "date": "2023-02-17"
+  },
+  {
+    "id": 130,
+    "customer_id": 47,
+    "total": 638.64,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 131,
+    "customer_id": 90,
+    "total": 399.62,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 132,
+    "customer_id": 77,
+    "total": 682.58,
+    "date": "2023-01-21"
+  },
+  {
+    "id": 133,
+    "customer_id": 96,
+    "total": 126.7,
+    "date": "2023-01-26"
+  },
+  {
+    "id": 134,
+    "customer_id": 22,
+    "total": 532.9,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 135,
+    "customer_id": 45,
+    "total": 719.58,
+    "date": "2023-02-01"
+  },
+  {
+    "id": 136,
+    "customer_id": 62,
+    "total": 825.71,
+    "date": "2023-01-11"
+  },
+  {
+    "id": 137,
+    "customer_id": 58,
+    "total": 978.1,
+    "date": "2023-01-02"
+  },
+  {
+    "id": 138,
+    "customer_id": 33,
+    "total": 821.19,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 139,
+    "customer_id": 77,
+    "total": 47.24,
+    "date": "2023-01-24"
+  },
+  {
+    "id": 140,
+    "customer_id": 12,
+    "total": 938.22,
+    "date": "2023-01-26"
+  },
+  {
+    "id": 141,
+    "customer_id": 16,
+    "total": 896.59,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 142,
+    "customer_id": 30,
+    "total": 953.41,
+    "date": "2023-02-15"
+  },
+  {
+    "id": 143,
+    "customer_id": 72,
+    "total": 234.49,
+    "date": "2023-03-27"
+  },
+  {
+    "id": 144,
+    "customer_id": 0,
+    "total": 38.26,
+    "date": "2023-03-31"
+  },
+  {
+    "id": 145,
+    "customer_id": 9,
+    "total": 367.55,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 146,
+    "customer_id": 92,
+    "total": 528.89,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 147,
+    "customer_id": 6,
+    "total": 530.1,
+    "date": "2023-02-17"
+  },
+  {
+    "id": 148,
+    "customer_id": 30,
+    "total": 944.51,
+    "date": "2023-01-14"
+  },
+  {
+    "id": 149,
+    "customer_id": 17,
+    "total": 862.81,
     "date": "2023-02-04"
   },
   {
-    "id": 246,
-    "customer_id": 65,
-    "total": 835.99,
-    "date": "2023-02-08"
+    "id": 150,
+    "customer_id": 38,
+    "total": 494.31,
+    "date": "2023-02-20"
   },
   {
-    "id": 247,
-    "customer_id": 20,
-    "total": 931.15,
-    "date": "2023-01-18"
+    "id": 151,
+    "customer_id": 48,
+    "total": 518.56,
+    "date": "2023-03-10"
   },
   {
-    "id": 248,
-    "customer_id": 58,
-    "total": 851.57,
-    "date": "2023-02-19"
+    "id": 152,
+    "customer_id": 48,
+    "total": 314.8,
+    "date": "2023-02-02"
   },
   {
-    "id": 249,
+    "id": 153,
+    "customer_id": 87,
+    "total": 275.79,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 154,
+    "customer_id": 23,
+    "total": 812.47,
+    "date": "2023-01-26"
+  },
+  {
+    "id": 155,
+    "customer_id": 95,
+    "total": 225.36,
+    "date": "2023-03-21"
+  },
+  {
+    "id": 156,
+    "customer_id": 75,
+    "total": 803.48,
+    "date": "2023-01-08"
+  },
+  {
+    "id": 157,
+    "customer_id": 95,
+    "total": 447.83,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 158,
+    "customer_id": 73,
+    "total": 133.2,
+    "date": "2023-02-14"
+  },
+  {
+    "id": 159,
+    "customer_id": 57,
+    "total": 83.28,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 160,
+    "customer_id": 19,
+    "total": 371.88,
+    "date": "2023-02-16"
+  },
+  {
+    "id": 161,
+    "customer_id": 63,
+    "total": 268.59,
+    "date": "2023-01-19"
+  },
+  {
+    "id": 162,
     "customer_id": 44,
-    "total": 363.13,
-    "date": "2023-01-29"
+    "total": 538.17,
+    "date": "2023-02-03"
   },
   {
-    "id": 250,
-    "customer_id": 10,
-    "total": 648.12,
-    "date": "2023-01-29"
+    "id": 163,
+    "customer_id": 24,
+    "total": 536.71,
+    "date": "2023-01-08"
   },
   {
-    "id": 251,
-    "customer_id": 66,
-    "total": 19.08,
+    "id": 164,
+    "customer_id": 36,
+    "total": 830.17,
     "date": "2023-01-01"
   },
   {
-    "id": 252,
-    "customer_id": 17,
-    "total": 363.92,
-    "date": "2023-02-12"
+    "id": 165,
+    "customer_id": 29,
+    "total": 551.93,
+    "date": "2023-03-06"
   },
   {
-    "id": 253,
+    "id": 166,
+    "customer_id": 14,
+    "total": 101.69,
+    "date": "2023-01-19"
+  },
+  {
+    "id": 167,
+    "customer_id": 5,
+    "total": 985.05,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 168,
+    "customer_id": 21,
+    "total": 865.48,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 169,
+    "customer_id": 12,
+    "total": 104.11,
+    "date": "2023-02-21"
+  },
+  {
+    "id": 170,
+    "customer_id": 61,
+    "total": 537.39,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 171,
+    "customer_id": 81,
+    "total": 971.58,
+    "date": "2023-03-18"
+  },
+  {
+    "id": 172,
     "customer_id": 64,
-    "total": 173.86,
+    "total": 582.67,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 173,
+    "customer_id": 74,
+    "total": 136.26,
+    "date": "2023-01-07"
+  },
+  {
+    "id": 174,
+    "customer_id": 18,
+    "total": 526.29,
+    "date": "2023-01-10"
+  },
+  {
+    "id": 175,
+    "customer_id": 87,
+    "total": 169.7,
+    "date": "2023-03-06"
+  },
+  {
+    "id": 176,
+    "customer_id": 13,
+    "total": 464.29,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 177,
+    "customer_id": 88,
+    "total": 967.97,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 178,
+    "customer_id": 14,
+    "total": 556.54,
+    "date": "2023-01-16"
+  },
+  {
+    "id": 179,
+    "customer_id": 33,
+    "total": 593.77,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 180,
+    "customer_id": 47,
+    "total": 118.31,
+    "date": "2023-02-11"
+  },
+  {
+    "id": 181,
+    "customer_id": 72,
+    "total": 375.82,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 182,
+    "customer_id": 32,
+    "total": 347.09,
+    "date": "2023-02-20"
+  },
+  {
+    "id": 183,
+    "customer_id": 39,
+    "total": 644.69,
+    "date": "2023-01-13"
+  },
+  {
+    "id": 184,
+    "customer_id": 25,
+    "total": 170.78,
+    "date": "2023-01-03"
+  },
+  {
+    "id": 185,
+    "customer_id": 84,
+    "total": 706.49,
+    "date": "2023-01-02"
+  },
+  {
+    "id": 186,
+    "customer_id": 51,
+    "total": 62.13,
+    "date": "2023-03-07"
+  },
+  {
+    "id": 187,
+    "customer_id": 4,
+    "total": 656.21,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 188,
+    "customer_id": 3,
+    "total": 56.91,
+    "date": "2023-01-18"
+  },
+  {
+    "id": 189,
+    "customer_id": 4,
+    "total": 854.79,
+    "date": "2023-02-08"
+  },
+  {
+    "id": 190,
+    "customer_id": 98,
+    "total": 727.71,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 191,
+    "customer_id": 63,
+    "total": 163.1,
+    "date": "2023-03-21"
+  },
+  {
+    "id": 192,
+    "customer_id": 8,
+    "total": 457.16,
     "date": "2023-01-15"
   },
   {
-    "id": 254,
+    "id": 193,
+    "customer_id": 38,
+    "total": 630.33,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 194,
+    "customer_id": 40,
+    "total": 937.8,
+    "date": "2023-01-08"
+  },
+  {
+    "id": 195,
+    "customer_id": 56,
+    "total": 541.55,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 196,
+    "customer_id": 81,
+    "total": 685.35,
+    "date": "2023-02-04"
+  },
+  {
+    "id": 197,
+    "customer_id": 90,
+    "total": 547.85,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 198,
+    "customer_id": 81,
+    "total": 270.93,
+    "date": "2023-01-07"
+  },
+  {
+    "id": 199,
+    "customer_id": 30,
+    "total": 271.32,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 200,
+    "customer_id": 81,
+    "total": 884.24,
+    "date": "2023-01-16"
+  },
+  {
+    "id": 201,
+    "customer_id": 33,
+    "total": 894.59,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 202,
+    "customer_id": 75,
+    "total": 394.35,
+    "date": "2023-01-02"
+  },
+  {
+    "id": 203,
+    "customer_id": 49,
+    "total": 327.51,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 204,
+    "customer_id": 3,
+    "total": 874.37,
+    "date": "2023-02-22"
+  },
+  {
+    "id": 205,
+    "customer_id": 20,
+    "total": 187.84,
+    "date": "2023-02-06"
+  },
+  {
+    "id": 206,
+    "customer_id": 2,
+    "total": 678.03,
+    "date": "2023-01-21"
+  },
+  {
+    "id": 207,
+    "customer_id": 45,
+    "total": 306.61,
+    "date": "2023-02-05"
+  },
+  {
+    "id": 208,
+    "customer_id": 53,
+    "total": 390.59,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 209,
+    "customer_id": 33,
+    "total": 720.1,
+    "date": "2023-02-06"
+  },
+  {
+    "id": 210,
+    "customer_id": 9,
+    "total": 629.86,
+    "date": "2023-03-21"
+  },
+  {
+    "id": 211,
+    "customer_id": 96,
+    "total": 919.24,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 212,
+    "customer_id": 25,
+    "total": 764.01,
+    "date": "2023-03-20"
+  },
+  {
+    "id": 213,
+    "customer_id": 90,
+    "total": 581.62,
+    "date": "2023-02-06"
+  },
+  {
+    "id": 214,
+    "customer_id": 5,
+    "total": 163.8,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 215,
+    "customer_id": 100,
+    "total": 186.68,
+    "date": "2023-03-30"
+  },
+  {
+    "id": 216,
+    "customer_id": 48,
+    "total": 669.44,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 217,
+    "customer_id": 19,
+    "total": 212.67,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 218,
+    "customer_id": 76,
+    "total": 998.93,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 219,
+    "customer_id": 14,
+    "total": 691.8,
+    "date": "2023-01-26"
+  },
+  {
+    "id": 220,
+    "customer_id": 41,
+    "total": 927.83,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 221,
+    "customer_id": 34,
+    "total": 204.45,
+    "date": "2023-01-01"
+  },
+  {
+    "id": 222,
+    "customer_id": 76,
+    "total": 300.71,
+    "date": "2023-01-04"
+  },
+  {
+    "id": 223,
+    "customer_id": 93,
+    "total": 14.49,
+    "date": "2023-02-08"
+  },
+  {
+    "id": 224,
+    "customer_id": 41,
+    "total": 672.02,
+    "date": "2023-02-13"
+  },
+  {
+    "id": 225,
+    "customer_id": 1,
+    "total": 239.9,
+    "date": "2023-01-10"
+  },
+  {
+    "id": 226,
+    "customer_id": 66,
+    "total": 804.99,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 227,
+    "customer_id": 20,
+    "total": 820.39,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 228,
+    "customer_id": 8,
+    "total": 313.75,
+    "date": "2023-02-12"
+  },
+  {
+    "id": 229,
+    "customer_id": 45,
+    "total": 647.23,
+    "date": "2023-02-20"
+  },
+  {
+    "id": 230,
+    "customer_id": 67,
+    "total": 874.83,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 231,
+    "customer_id": 69,
+    "total": 294.65,
+    "date": "2023-02-19"
+  },
+  {
+    "id": 232,
+    "customer_id": 91,
+    "total": 580.54,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 233,
+    "customer_id": 53,
+    "total": 358.35,
+    "date": "2023-03-17"
+  },
+  {
+    "id": 234,
+    "customer_id": 13,
+    "total": 94.54,
+    "date": "2023-01-11"
+  },
+  {
+    "id": 235,
+    "customer_id": 73,
+    "total": 369.01,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 236,
+    "customer_id": 94,
+    "total": 597.84,
+    "date": "2023-01-29"
+  },
+  {
+    "id": 237,
+    "customer_id": 74,
+    "total": 438.96,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 238,
+    "customer_id": 77,
+    "total": 814.69,
+    "date": "2023-01-20"
+  },
+  {
+    "id": 239,
+    "customer_id": 6,
+    "total": 439.56,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 240,
+    "customer_id": 86,
+    "total": 646.56,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 241,
+    "customer_id": 76,
+    "total": 229.89,
+    "date": "2023-03-08"
+  },
+  {
+    "id": 242,
+    "customer_id": 52,
+    "total": 575.94,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 243,
+    "customer_id": 70,
+    "total": 103.06,
+    "date": "2023-01-29"
+  },
+  {
+    "id": 244,
+    "customer_id": 30,
+    "total": 835.95,
+    "date": "2023-03-07"
+  },
+  {
+    "id": 245,
+    "customer_id": 60,
+    "total": 931.88,
+    "date": "2023-01-12"
+  },
+  {
+    "id": 246,
+    "customer_id": 100,
+    "total": 83.23,
+    "date": "2023-02-22"
+  },
+  {
+    "id": 247,
+    "customer_id": 69,
+    "total": 301.7,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 248,
+    "customer_id": 75,
+    "total": 771.17,
+    "date": "2023-03-05"
+  },
+  {
+    "id": 249,
+    "customer_id": 67,
+    "total": 68.4,
+    "date": "2023-03-16"
+  },
+  {
+    "id": 250,
+    "customer_id": 6,
+    "total": 612.78,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 251,
+    "customer_id": 91,
+    "total": 769,
+    "date": "2023-01-24"
+  },
+  {
+    "id": 252,
+    "customer_id": 2,
+    "total": 831.75,
+    "date": "2023-02-07"
+  },
+  {
+    "id": 253,
     "customer_id": 16,
-    "total": 62.82,
-    "date": "2023-02-18"
+    "total": 645.73,
+    "date": "2023-01-20"
+  },
+  {
+    "id": 254,
+    "customer_id": 50,
+    "total": 533.86,
+    "date": "2023-01-17"
   },
   {
     "id": 255,
-    "customer_id": 13,
-    "total": 418.27,
-    "date": "2023-01-28"
+    "customer_id": 78,
+    "total": 221.5,
+    "date": "2023-03-26"
   },
   {
     "id": 256,
     "customer_id": 81,
-    "total": 305.69,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 257,
-    "customer_id": 18,
-    "total": 691.02,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 258,
-    "customer_id": 26,
-    "total": 686.09,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 259,
-    "customer_id": 27,
-    "total": 143.52,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 260,
-    "customer_id": 45,
-    "total": 75.8,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 261,
-    "customer_id": 68,
-    "total": 116.58,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 262,
-    "customer_id": 52,
-    "total": 272.38,
+    "total": 188.03,
     "date": "2023-02-03"
   },
   {
-    "id": 263,
-    "customer_id": 60,
-    "total": 336.85,
-    "date": "2023-01-14"
+    "id": 257,
+    "customer_id": 91,
+    "total": 267.78,
+    "date": "2023-03-05"
   },
   {
-    "id": 264,
-    "customer_id": 97,
-    "total": 652.09,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 265,
-    "customer_id": 100,
-    "total": 396.21,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 266,
-    "customer_id": 83,
-    "total": 396.58,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 267,
-    "customer_id": 55,
-    "total": 188.59,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 268,
-    "customer_id": 93,
-    "total": 470.72,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 269,
-    "customer_id": 86,
-    "total": 518.16,
-    "date": "2023-01-22"
-  },
-  {
-    "id": 270,
-    "customer_id": 44,
-    "total": 447.96,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 271,
-    "customer_id": 21,
-    "total": 244.77,
-    "date": "2023-02-23"
-  },
-  {
-    "id": 272,
-    "customer_id": 8,
-    "total": 488.15,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 273,
-    "customer_id": 86,
-    "total": 293.16,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 274,
-    "customer_id": 35,
-    "total": 339.96,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 275,
-    "customer_id": 60,
-    "total": 482.4,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 276,
-    "customer_id": 27,
-    "total": 875.07,
-    "date": "2023-01-14"
-  },
-  {
-    "id": 277,
-    "customer_id": 86,
-    "total": 157.5,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 278,
-    "customer_id": 98,
-    "total": 666.91,
+    "id": 258,
+    "customer_id": 85,
+    "total": 245.48,
     "date": "2023-02-26"
   },
   {
-    "id": 279,
-    "customer_id": 31,
-    "total": 68.2,
-    "date": "2023-02-16"
+    "id": 259,
+    "customer_id": 46,
+    "total": 260.45,
+    "date": "2023-01-23"
   },
   {
-    "id": 280,
-    "customer_id": 55,
-    "total": 897.13,
-    "date": "2023-01-22"
+    "id": 260,
+    "customer_id": 17,
+    "total": 682.96,
+    "date": "2023-02-11"
   },
   {
-    "id": 281,
-    "customer_id": 98,
-    "total": 30.49,
-    "date": "2023-02-09"
+    "id": 261,
+    "customer_id": 81,
+    "total": 174.65,
+    "date": "2023-01-26"
   },
   {
-    "id": 282,
-    "customer_id": 31,
-    "total": 919.24,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 283,
-    "customer_id": 47,
-    "total": 486.83,
-    "date": "2023-02-15"
-  },
-  {
-    "id": 284,
-    "customer_id": 96,
-    "total": 602.25,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 285,
-    "customer_id": 74,
-    "total": 590.45,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 286,
-    "customer_id": 87,
-    "total": 59.31,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 287,
-    "customer_id": 41,
-    "total": 564.23,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 288,
-    "customer_id": 61,
-    "total": 112.13,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 289,
-    "customer_id": 41,
-    "total": 31.85,
-    "date": "2023-02-23"
-  },
-  {
-    "id": 290,
-    "customer_id": 94,
-    "total": 414.36,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 291,
-    "customer_id": 51,
-    "total": 82.91,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 292,
-    "customer_id": 83,
-    "total": 804.6,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 293,
-    "customer_id": 71,
-    "total": 983.93,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 294,
-    "customer_id": 2,
-    "total": 582.19,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 295,
-    "customer_id": 42,
-    "total": 529.03,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 296,
-    "customer_id": 9,
-    "total": 669.82,
+    "id": 262,
+    "customer_id": 32,
+    "total": 803.21,
     "date": "2023-01-06"
   },
   {
-    "id": 297,
-    "customer_id": 18,
-    "total": 865.98,
-    "date": "2023-02-12"
+    "id": 263,
+    "customer_id": 94,
+    "total": 297,
+    "date": "2023-03-12"
   },
   {
-    "id": 298,
-    "customer_id": 27,
-    "total": 830.71,
-    "date": "2023-01-15"
+    "id": 264,
+    "customer_id": 65,
+    "total": 276.38,
+    "date": "2023-03-01"
   },
   {
-    "id": 299,
-    "customer_id": 1,
-    "total": 608.64,
-    "date": "2023-01-12"
+    "id": 265,
+    "customer_id": 5,
+    "total": 776.47,
+    "date": "2023-03-31"
   },
   {
-    "id": 300,
-    "customer_id": 60,
-    "total": 634.65,
-    "date": "2023-01-10"
+    "id": 266,
+    "customer_id": 33,
+    "total": 287.05,
+    "date": "2023-02-05"
   },
   {
-    "id": 301,
-    "customer_id": 3,
-    "total": 279.51,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 302,
-    "customer_id": 46,
-    "total": 751.69,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 303,
-    "customer_id": 50,
-    "total": 778.16,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 304,
+    "id": 267,
     "customer_id": 58,
-    "total": 848.88,
-    "date": "2023-02-16"
+    "total": 997.46,
+    "date": "2023-03-29"
   },
   {
-    "id": 305,
-    "customer_id": 36,
-    "total": 287.87,
-    "date": "2023-02-01"
+    "id": 268,
+    "customer_id": 13,
+    "total": 122.52,
+    "date": "2023-01-14"
   },
   {
-    "id": 306,
-    "customer_id": 79,
-    "total": 147.18,
-    "date": "2023-01-20"
+    "id": 269,
+    "customer_id": 76,
+    "total": 47.88,
+    "date": "2023-03-05"
   },
   {
-    "id": 307,
-    "customer_id": 30,
-    "total": 145.72,
-    "date": "2023-01-18"
+    "id": 270,
+    "customer_id": 4,
+    "total": 642.21,
+    "date": "2023-01-04"
   },
   {
-    "id": 308,
-    "customer_id": 44,
-    "total": 830.72,
-    "date": "2023-01-11"
+    "id": 271,
+    "customer_id": 98,
+    "total": 191.08,
+    "date": "2023-02-03"
   },
   {
-    "id": 309,
-    "customer_id": 97,
-    "total": 92.27,
+    "id": 272,
+    "customer_id": 37,
+    "total": 629.1,
+    "date": "2023-02-11"
+  },
+  {
+    "id": 273,
+    "customer_id": 89,
+    "total": 249.61,
+    "date": "2023-01-24"
+  },
+  {
+    "id": 274,
+    "customer_id": 18,
+    "total": 948.6,
+    "date": "2023-03-14"
+  },
+  {
+    "id": 275,
+    "customer_id": 26,
+    "total": 320.07,
     "date": "2023-02-15"
   },
   {
+    "id": 276,
+    "customer_id": 59,
+    "total": 486.64,
+    "date": "2023-03-17"
+  },
+  {
+    "id": 277,
+    "customer_id": 66,
+    "total": 485.52,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 278,
+    "customer_id": 90,
+    "total": 738.98,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 279,
+    "customer_id": 30,
+    "total": 59.14,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 280,
+    "customer_id": 24,
+    "total": 517.77,
+    "date": "2023-01-09"
+  },
+  {
+    "id": 281,
+    "customer_id": 60,
+    "total": 556.14,
+    "date": "2023-03-18"
+  },
+  {
+    "id": 282,
+    "customer_id": 58,
+    "total": 789.79,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 283,
+    "customer_id": 26,
+    "total": 730.19,
+    "date": "2023-02-04"
+  },
+  {
+    "id": 284,
+    "customer_id": 23,
+    "total": 405.23,
+    "date": "2023-01-16"
+  },
+  {
+    "id": 285,
+    "customer_id": 56,
+    "total": 844.36,
+    "date": "2023-02-04"
+  },
+  {
+    "id": 286,
+    "customer_id": 22,
+    "total": 976.2,
+    "date": "2023-03-10"
+  },
+  {
+    "id": 287,
+    "customer_id": 57,
+    "total": 405.36,
+    "date": "2023-03-05"
+  },
+  {
+    "id": 288,
+    "customer_id": 47,
+    "total": 745.53,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 289,
+    "customer_id": 54,
+    "total": 829.15,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 290,
+    "customer_id": 97,
+    "total": 633.77,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 291,
+    "customer_id": 0,
+    "total": 105.48,
+    "date": "2023-01-13"
+  },
+  {
+    "id": 292,
+    "customer_id": 72,
+    "total": 163.08,
+    "date": "2023-02-22"
+  },
+  {
+    "id": 293,
+    "customer_id": 35,
+    "total": 919.05,
+    "date": "2023-02-09"
+  },
+  {
+    "id": 294,
+    "customer_id": 75,
+    "total": 447.05,
+    "date": "2023-01-01"
+  },
+  {
+    "id": 295,
+    "customer_id": 93,
+    "total": 601.98,
+    "date": "2023-02-23"
+  },
+  {
+    "id": 296,
+    "customer_id": 18,
+    "total": 136.21,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 297,
+    "customer_id": 10,
+    "total": 671.19,
+    "date": "2023-01-09"
+  },
+  {
+    "id": 298,
+    "customer_id": 38,
+    "total": 291.68,
+    "date": "2023-02-28"
+  },
+  {
+    "id": 299,
+    "customer_id": 81,
+    "total": 681.66,
+    "date": "2023-02-15"
+  },
+  {
+    "id": 300,
+    "customer_id": 26,
+    "total": 892.54,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 301,
+    "customer_id": 53,
+    "total": 161.36,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 302,
+    "customer_id": 80,
+    "total": 545.53,
+    "date": "2023-01-14"
+  },
+  {
+    "id": 303,
+    "customer_id": 32,
+    "total": 965.83,
+    "date": "2023-01-12"
+  },
+  {
+    "id": 304,
+    "customer_id": 25,
+    "total": 710.27,
+    "date": "2023-03-26"
+  },
+  {
+    "id": 305,
+    "customer_id": 92,
+    "total": 777.67,
+    "date": "2023-03-16"
+  },
+  {
+    "id": 306,
+    "customer_id": 62,
+    "total": 117.85,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 307,
+    "customer_id": 42,
+    "total": 257.46,
+    "date": "2023-02-10"
+  },
+  {
+    "id": 308,
+    "customer_id": 93,
+    "total": 605.37,
+    "date": "2023-01-08"
+  },
+  {
+    "id": 309,
+    "customer_id": 77,
+    "total": 130.42,
+    "date": "2023-03-28"
+  },
+  {
     "id": 310,
-    "customer_id": 16,
-    "total": 852.95,
-    "date": "2023-02-12"
+    "customer_id": 86,
+    "total": 737.85,
+    "date": "2023-01-13"
   },
   {
     "id": 311,
-    "customer_id": 93,
-    "total": 138.56,
+    "customer_id": 70,
+    "total": 958.45,
     "date": "2023-02-11"
   },
   {
     "id": 312,
-    "customer_id": 94,
-    "total": 424.89,
-    "date": "2023-02-08"
+    "customer_id": 87,
+    "total": 595.06,
+    "date": "2023-03-08"
   },
   {
     "id": 313,
-    "customer_id": 1,
-    "total": 54.17,
-    "date": "2023-01-13"
+    "customer_id": 4,
+    "total": 813.38,
+    "date": "2023-02-19"
   },
   {
     "id": 314,
-    "customer_id": 1,
-    "total": 580.81,
-    "date": "2023-02-05"
+    "customer_id": 44,
+    "total": 713.42,
+    "date": "2023-03-15"
   },
   {
     "id": 315,
-    "customer_id": 75,
-    "total": 44.3,
-    "date": "2023-02-22"
+    "customer_id": 23,
+    "total": 118.32,
+    "date": "2023-01-16"
   },
   {
     "id": 316,
-    "customer_id": 27,
-    "total": 236.79,
-    "date": "2023-01-09"
+    "customer_id": 31,
+    "total": 798.16,
+    "date": "2023-03-09"
   },
   {
     "id": 317,
-    "customer_id": 61,
-    "total": 603.05,
-    "date": "2023-01-19"
+    "customer_id": 15,
+    "total": 462.71,
+    "date": "2023-01-17"
   },
   {
     "id": 318,
-    "customer_id": 79,
-    "total": 425.07,
-    "date": "2023-01-27"
+    "customer_id": 21,
+    "total": 384.68,
+    "date": "2023-02-24"
   },
   {
     "id": 319,
-    "customer_id": 30,
-    "total": 887.72,
-    "date": "2023-02-13"
+    "customer_id": 88,
+    "total": 721.1,
+    "date": "2023-01-24"
   },
   {
     "id": 320,
-    "customer_id": 44,
-    "total": 285.12,
-    "date": "2023-02-08"
+    "customer_id": 6,
+    "total": 296.47,
+    "date": "2023-01-07"
   },
   {
     "id": 321,
-    "customer_id": 58,
-    "total": 265.52,
-    "date": "2023-02-27"
+    "customer_id": 17,
+    "total": 344.71,
+    "date": "2023-01-21"
   },
   {
     "id": 322,
     "customer_id": 62,
-    "total": 35.52,
-    "date": "2023-01-10"
+    "total": 493.13,
+    "date": "2023-02-12"
   },
   {
     "id": 323,
-    "customer_id": 41,
-    "total": 143.36,
-    "date": "2023-01-24"
+    "customer_id": 88,
+    "total": 533.49,
+    "date": "2023-03-15"
   },
   {
     "id": 324,
-    "customer_id": 90,
-    "total": 598.64,
-    "date": "2023-01-31"
+    "customer_id": 92,
+    "total": 422.81,
+    "date": "2023-02-16"
   },
   {
     "id": 325,
-    "customer_id": 8,
-    "total": 81.65,
-    "date": "2023-01-10"
+    "customer_id": 25,
+    "total": 119.66,
+    "date": "2023-03-16"
   },
   {
     "id": 326,
-    "customer_id": 25,
-    "total": 916.86,
-    "date": "2023-01-22"
+    "customer_id": 86,
+    "total": 495.64,
+    "date": "2023-02-13"
   },
   {
     "id": 327,
-    "customer_id": 73,
-    "total": 605.5,
+    "customer_id": 29,
+    "total": 866.18,
     "date": "2023-01-16"
   },
   {
     "id": 328,
-    "customer_id": 78,
-    "total": 159.6,
-    "date": "2023-01-14"
+    "customer_id": 21,
+    "total": 474.96,
+    "date": "2023-03-03"
   },
   {
     "id": 329,
-    "customer_id": 51,
-    "total": 732.6,
-    "date": "2023-02-07"
+    "customer_id": 38,
+    "total": 891.49,
+    "date": "2023-03-05"
   },
   {
     "id": 330,
-    "customer_id": 19,
-    "total": 635.07,
-    "date": "2023-02-03"
+    "customer_id": 52,
+    "total": 363.79,
+    "date": "2023-03-05"
   },
   {
     "id": 331,
-    "customer_id": 49,
-    "total": 465.5,
-    "date": "2023-02-27"
+    "customer_id": 39,
+    "total": 410.27,
+    "date": "2023-01-09"
   },
   {
     "id": 332,
-    "customer_id": 24,
-    "total": 294.78,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 333,
-    "customer_id": 86,
-    "total": 48.21,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 334,
-    "customer_id": 41,
-    "total": 883.82,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 335,
-    "customer_id": 58,
-    "total": 534.5,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 336,
-    "customer_id": 91,
-    "total": 92.6,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 337,
-    "customer_id": 60,
-    "total": 132.73,
+    "customer_id": 73,
+    "total": 317.7,
     "date": "2023-01-17"
   },
   {
-    "id": 338,
-    "customer_id": 29,
-    "total": 854.87,
-    "date": "2023-01-05"
+    "id": 333,
+    "customer_id": 68,
+    "total": 18.19,
+    "date": "2023-03-15"
   },
   {
-    "id": 339,
-    "customer_id": 91,
-    "total": 48.41,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 340,
-    "customer_id": 1,
-    "total": 939.75,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 341,
-    "customer_id": 69,
-    "total": 315.9,
-    "date": "2023-02-08"
-  },
-  {
-    "id": 342,
-    "customer_id": 45,
-    "total": 632.9,
-    "date": "2023-02-15"
-  },
-  {
-    "id": 343,
-    "customer_id": 99,
-    "total": 768.07,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 344,
-    "customer_id": 82,
-    "total": 539.77,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 345,
-    "customer_id": 49,
-    "total": 276.62,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 346,
-    "customer_id": 15,
-    "total": 30.28,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 347,
-    "customer_id": 45,
-    "total": 270.34,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 348,
-    "customer_id": 17,
-    "total": 235.65,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 349,
-    "customer_id": 16,
-    "total": 16.37,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 350,
-    "customer_id": 39,
-    "total": 99.22,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 351,
-    "customer_id": 64,
-    "total": 79.29,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 352,
-    "customer_id": 46,
-    "total": 228.89,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 353,
-    "customer_id": 16,
-    "total": 822.3,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 354,
-    "customer_id": 34,
-    "total": 430.52,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 355,
-    "customer_id": 25,
-    "total": 955.39,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 356,
-    "customer_id": 36,
-    "total": 871.38,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 357,
-    "customer_id": 38,
-    "total": 393.18,
-    "date": "2023-01-13"
-  },
-  {
-    "id": 358,
-    "customer_id": 40,
-    "total": 142.94,
-    "date": "2023-02-08"
-  },
-  {
-    "id": 359,
-    "customer_id": 4,
-    "total": 52.93,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 360,
-    "customer_id": 65,
-    "total": 921.3,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 361,
-    "customer_id": 1,
-    "total": 523.32,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 362,
-    "customer_id": 71,
-    "total": 161.2,
+    "id": 334,
+    "customer_id": 83,
+    "total": 567.25,
     "date": "2023-01-03"
   },
   {
-    "id": 363,
-    "customer_id": 90,
-    "total": 216.96,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 364,
-    "customer_id": 31,
-    "total": 48.48,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 365,
-    "customer_id": 0,
-    "total": 204.66,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 366,
-    "customer_id": 72,
-    "total": 632.19,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 367,
-    "customer_id": 10,
-    "total": 335.75,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 368,
-    "customer_id": 26,
-    "total": 556.76,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 369,
-    "customer_id": 45,
-    "total": 435.44,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 370,
-    "customer_id": 51,
-    "total": 212.75,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 371,
-    "customer_id": 15,
-    "total": 476.91,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 372,
-    "customer_id": 8,
-    "total": 749.65,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 373,
-    "customer_id": 92,
-    "total": 864.39,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 374,
-    "customer_id": 53,
-    "total": 331.05,
-    "date": "2023-02-16"
-  },
-  {
-    "id": 375,
-    "customer_id": 49,
-    "total": 696.53,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 376,
-    "customer_id": 49,
-    "total": 741.09,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 377,
-    "customer_id": 56,
-    "total": 927.13,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 378,
-    "customer_id": 97,
-    "total": 320.01,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 379,
-    "customer_id": 53,
-    "total": 648.46,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 380,
-    "customer_id": 41,
-    "total": 660.42,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 381,
-    "customer_id": 96,
-    "total": 828.6,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 382,
-    "customer_id": 40,
-    "total": 24.12,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 383,
-    "customer_id": 75,
-    "total": 662.98,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 384,
-    "customer_id": 53,
-    "total": 293,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 385,
-    "customer_id": 41,
-    "total": 836.68,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 386,
-    "customer_id": 25,
-    "total": 739.93,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 387,
-    "customer_id": 81,
-    "total": 318.16,
-    "date": "2023-02-04"
-  },
-  {
-    "id": 388,
-    "customer_id": 33,
-    "total": 263.18,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 389,
-    "customer_id": 55,
-    "total": 802.9,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 390,
-    "customer_id": 7,
-    "total": 678.45,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 391,
-    "customer_id": 22,
-    "total": 872.84,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 392,
-    "customer_id": 86,
-    "total": 76.86,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 393,
-    "customer_id": 69,
-    "total": 257.64,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 394,
-    "customer_id": 91,
-    "total": 797.28,
-    "date": "2023-01-27"
-  },
-  {
-    "id": 395,
-    "customer_id": 66,
-    "total": 903.29,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 396,
-    "customer_id": 58,
-    "total": 572.48,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 397,
-    "customer_id": 2,
-    "total": 780.67,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 398,
-    "customer_id": 93,
-    "total": 917.54,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 399,
-    "customer_id": 72,
-    "total": 497.31,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 400,
-    "customer_id": 0,
-    "total": 483.8,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 401,
-    "customer_id": 57,
-    "total": 296.82,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 402,
-    "customer_id": 46,
-    "total": 676.81,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 403,
-    "customer_id": 1,
-    "total": 279.87,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 404,
-    "customer_id": 97,
-    "total": 185.22,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 405,
-    "customer_id": 46,
-    "total": 816.1,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 406,
+    "id": 335,
     "customer_id": 37,
-    "total": 773.25,
-    "date": "2023-01-10"
-  },
-  {
-    "id": 407,
-    "customer_id": 65,
-    "total": 602.41,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 408,
-    "customer_id": 77,
-    "total": 618.52,
+    "total": 719.73,
     "date": "2023-01-25"
   },
   {
-    "id": 409,
-    "customer_id": 62,
-    "total": 531.35,
+    "id": 336,
+    "customer_id": 18,
+    "total": 298.64,
+    "date": "2023-01-14"
+  },
+  {
+    "id": 337,
+    "customer_id": 86,
+    "total": 247.34,
+    "date": "2023-03-14"
+  },
+  {
+    "id": 338,
+    "customer_id": 72,
+    "total": 759.22,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 339,
+    "customer_id": 19,
+    "total": 743.11,
+    "date": "2023-03-27"
+  },
+  {
+    "id": 340,
+    "customer_id": 92,
+    "total": 991.89,
+    "date": "2023-01-28"
+  },
+  {
+    "id": 341,
+    "customer_id": 87,
+    "total": 637,
+    "date": "2023-01-12"
+  },
+  {
+    "id": 342,
+    "customer_id": 61,
+    "total": 193.1,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 343,
+    "customer_id": 77,
+    "total": 667.08,
+    "date": "2023-01-08"
+  },
+  {
+    "id": 344,
+    "customer_id": 16,
+    "total": 99.48,
+    "date": "2023-01-16"
+  },
+  {
+    "id": 345,
+    "customer_id": 76,
+    "total": 44.12,
+    "date": "2023-02-20"
+  },
+  {
+    "id": 346,
+    "customer_id": 26,
+    "total": 476.1,
+    "date": "2023-03-22"
+  },
+  {
+    "id": 347,
+    "customer_id": 73,
+    "total": 744.73,
+    "date": "2023-01-09"
+  },
+  {
+    "id": 348,
+    "customer_id": 69,
+    "total": 718.42,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 349,
+    "customer_id": 66,
+    "total": 912.34,
+    "date": "2023-02-11"
+  },
+  {
+    "id": 350,
+    "customer_id": 26,
+    "total": 705.51,
+    "date": "2023-01-24"
+  },
+  {
+    "id": 351,
+    "customer_id": 75,
+    "total": 389.15,
+    "date": "2023-01-13"
+  },
+  {
+    "id": 352,
+    "customer_id": 4,
+    "total": 634.26,
+    "date": "2023-01-20"
+  },
+  {
+    "id": 353,
+    "customer_id": 87,
+    "total": 845.86,
+    "date": "2023-03-22"
+  },
+  {
+    "id": 354,
+    "customer_id": 52,
+    "total": 684.79,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 355,
+    "customer_id": 8,
+    "total": 44.42,
+    "date": "2023-02-07"
+  },
+  {
+    "id": 356,
+    "customer_id": 99,
+    "total": 680.94,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 357,
+    "customer_id": 93,
+    "total": 613.05,
+    "date": "2023-01-19"
+  },
+  {
+    "id": 358,
+    "customer_id": 90,
+    "total": 145.04,
+    "date": "2023-02-04"
+  },
+  {
+    "id": 359,
+    "customer_id": 86,
+    "total": 279.46,
     "date": "2023-02-19"
   },
   {
-    "id": 410,
-    "customer_id": 87,
-    "total": 927.1,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 411,
-    "customer_id": 9,
-    "total": 689.67,
+    "id": 360,
+    "customer_id": 15,
+    "total": 175.89,
     "date": "2023-02-28"
   },
   {
-    "id": 412,
-    "customer_id": 66,
-    "total": 323.91,
+    "id": 361,
+    "customer_id": 11,
+    "total": 714.81,
+    "date": "2023-01-04"
+  },
+  {
+    "id": 362,
+    "customer_id": 78,
+    "total": 310.76,
+    "date": "2023-01-14"
+  },
+  {
+    "id": 363,
+    "customer_id": 9,
+    "total": 585.16,
+    "date": "2023-03-20"
+  },
+  {
+    "id": 364,
+    "customer_id": 99,
+    "total": 15.92,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 365,
+    "customer_id": 71,
+    "total": 777.95,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 366,
+    "customer_id": 78,
+    "total": 508.9,
+    "date": "2023-03-16"
+  },
+  {
+    "id": 367,
+    "customer_id": 48,
+    "total": 392.58,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 368,
+    "customer_id": 31,
+    "total": 530.23,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 369,
+    "customer_id": 24,
+    "total": 375.44,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 370,
+    "customer_id": 32,
+    "total": 852.07,
     "date": "2023-01-09"
+  },
+  {
+    "id": 371,
+    "customer_id": 55,
+    "total": 162.59,
+    "date": "2023-03-09"
+  },
+  {
+    "id": 372,
+    "customer_id": 72,
+    "total": 88.25,
+    "date": "2023-02-05"
+  },
+  {
+    "id": 373,
+    "customer_id": 40,
+    "total": 394.21,
+    "date": "2023-02-05"
+  },
+  {
+    "id": 374,
+    "customer_id": 32,
+    "total": 424.72,
+    "date": "2023-03-31"
+  },
+  {
+    "id": 375,
+    "customer_id": 7,
+    "total": 762.7,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 376,
+    "customer_id": 12,
+    "total": 388.62,
+    "date": "2023-03-10"
+  },
+  {
+    "id": 377,
+    "customer_id": 78,
+    "total": 944.51,
+    "date": "2023-03-08"
+  },
+  {
+    "id": 378,
+    "customer_id": 0,
+    "total": 620.69,
+    "date": "2023-03-16"
+  },
+  {
+    "id": 379,
+    "customer_id": 27,
+    "total": 790.41,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 380,
+    "customer_id": 34,
+    "total": 315.25,
+    "date": "2023-02-23"
+  },
+  {
+    "id": 381,
+    "customer_id": 98,
+    "total": 818.08,
+    "date": "2023-02-23"
+  },
+  {
+    "id": 382,
+    "customer_id": 19,
+    "total": 260.01,
+    "date": "2023-01-10"
+  },
+  {
+    "id": 383,
+    "customer_id": 67,
+    "total": 353.12,
+    "date": "2023-01-11"
+  },
+  {
+    "id": 384,
+    "customer_id": 74,
+    "total": 383.32,
+    "date": "2023-03-31"
+  },
+  {
+    "id": 385,
+    "customer_id": 45,
+    "total": 535.7,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 386,
+    "customer_id": 67,
+    "total": 59.09,
+    "date": "2023-02-27"
+  },
+  {
+    "id": 387,
+    "customer_id": 37,
+    "total": 18.97,
+    "date": "2023-01-17"
+  },
+  {
+    "id": 388,
+    "customer_id": 40,
+    "total": 373.59,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 389,
+    "customer_id": 58,
+    "total": 755.33,
+    "date": "2023-02-25"
+  },
+  {
+    "id": 390,
+    "customer_id": 28,
+    "total": 417.87,
+    "date": "2023-03-10"
+  },
+  {
+    "id": 391,
+    "customer_id": 0,
+    "total": 739.21,
+    "date": "2023-02-19"
+  },
+  {
+    "id": 392,
+    "customer_id": 1,
+    "total": 989.66,
+    "date": "2023-03-07"
+  },
+  {
+    "id": 393,
+    "customer_id": 90,
+    "total": 203.99,
+    "date": "2023-01-09"
+  },
+  {
+    "id": 394,
+    "customer_id": 81,
+    "total": 348.45,
+    "date": "2023-02-19"
+  },
+  {
+    "id": 395,
+    "customer_id": 1,
+    "total": 468.23,
+    "date": "2023-03-07"
+  },
+  {
+    "id": 396,
+    "customer_id": 38,
+    "total": 858.6,
+    "date": "2023-02-17"
+  },
+  {
+    "id": 397,
+    "customer_id": 76,
+    "total": 81.49,
+    "date": "2023-03-30"
+  },
+  {
+    "id": 398,
+    "customer_id": 97,
+    "total": 437.53,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 399,
+    "customer_id": 52,
+    "total": 991.53,
+    "date": "2023-03-12"
+  },
+  {
+    "id": 400,
+    "customer_id": 46,
+    "total": 790.18,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 401,
+    "customer_id": 62,
+    "total": 511.89,
+    "date": "2023-03-30"
+  },
+  {
+    "id": 402,
+    "customer_id": 56,
+    "total": 431.34,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 403,
+    "customer_id": 75,
+    "total": 882.15,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 404,
+    "customer_id": 78,
+    "total": 469.09,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 405,
+    "customer_id": 73,
+    "total": 776.04,
+    "date": "2023-01-28"
+  },
+  {
+    "id": 406,
+    "customer_id": 41,
+    "total": 735.23,
+    "date": "2023-02-21"
+  },
+  {
+    "id": 407,
+    "customer_id": 29,
+    "total": 280.45,
+    "date": "2023-01-17"
+  },
+  {
+    "id": 408,
+    "customer_id": 72,
+    "total": 698.79,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 409,
+    "customer_id": 90,
+    "total": 417.33,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 410,
+    "customer_id": 5,
+    "total": 821.49,
+    "date": "2023-02-27"
+  },
+  {
+    "id": 411,
+    "customer_id": 4,
+    "total": 11.69,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 412,
+    "customer_id": 16,
+    "total": 959.4,
+    "date": "2023-02-17"
   },
   {
     "id": 413,
     "customer_id": 92,
-    "total": 269.85,
-    "date": "2023-02-03"
+    "total": 532.65,
+    "date": "2023-03-04"
   },
   {
     "id": 414,
-    "customer_id": 57,
-    "total": 825.82,
-    "date": "2023-02-18"
+    "customer_id": 69,
+    "total": 758.62,
+    "date": "2023-03-24"
   },
   {
     "id": 415,
-    "customer_id": 48,
-    "total": 914.98,
-    "date": "2023-02-06"
+    "customer_id": 16,
+    "total": 772.95,
+    "date": "2023-02-22"
   },
   {
     "id": 416,
-    "customer_id": 12,
-    "total": 708.52,
-    "date": "2023-01-06"
+    "customer_id": 27,
+    "total": 442,
+    "date": "2023-03-11"
   },
   {
     "id": 417,
-    "customer_id": 51,
-    "total": 360.35,
-    "date": "2023-01-20"
+    "customer_id": 46,
+    "total": 160.91,
+    "date": "2023-03-24"
   },
   {
     "id": 418,
-    "customer_id": 90,
-    "total": 223.62,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 419,
-    "customer_id": 58,
-    "total": 620.36,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 420,
-    "customer_id": 15,
-    "total": 452.28,
-    "date": "2023-01-17"
-  },
-  {
-    "id": 421,
-    "customer_id": 89,
-    "total": 63.02,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 422,
-    "customer_id": 30,
-    "total": 398.78,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 423,
-    "customer_id": 73,
-    "total": 674.39,
-    "date": "2023-02-16"
-  },
-  {
-    "id": 424,
-    "customer_id": 17,
-    "total": 194.31,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 425,
-    "customer_id": 67,
-    "total": 758.62,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 426,
-    "customer_id": 39,
-    "total": 353.6,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 427,
-    "customer_id": 39,
-    "total": 630.59,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 428,
-    "customer_id": 28,
-    "total": 892.52,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 429,
-    "customer_id": 87,
-    "total": 189.39,
-    "date": "2023-02-14"
-  },
-  {
-    "id": 430,
-    "customer_id": 6,
-    "total": 356.02,
-    "date": "2023-02-16"
-  },
-  {
-    "id": 431,
-    "customer_id": 19,
-    "total": 395.19,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 432,
-    "customer_id": 16,
-    "total": 475.59,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 433,
-    "customer_id": 99,
-    "total": 96.88,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 434,
-    "customer_id": 21,
-    "total": 464.39,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 435,
-    "customer_id": 37,
-    "total": 419.35,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 436,
-    "customer_id": 87,
-    "total": 300.98,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 437,
-    "customer_id": 15,
-    "total": 990.34,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 438,
-    "customer_id": 4,
-    "total": 926.63,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 439,
-    "customer_id": 37,
-    "total": 764.91,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 440,
-    "customer_id": 39,
-    "total": 785.74,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 441,
-    "customer_id": 45,
-    "total": 731.25,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 442,
-    "customer_id": 34,
-    "total": 239.27,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 443,
-    "customer_id": 56,
-    "total": 781.32,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 444,
-    "customer_id": 100,
-    "total": 272.38,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 445,
-    "customer_id": 20,
-    "total": 956.34,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 446,
-    "customer_id": 48,
-    "total": 430.42,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 447,
-    "customer_id": 84,
-    "total": 826.42,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 448,
-    "customer_id": 33,
-    "total": 463.24,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 449,
-    "customer_id": 41,
-    "total": 664.7,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 450,
-    "customer_id": 7,
-    "total": 825.92,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 451,
-    "customer_id": 72,
-    "total": 475.62,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 452,
-    "customer_id": 74,
-    "total": 65.71,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 453,
-    "customer_id": 5,
-    "total": 570.37,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 454,
-    "customer_id": 43,
-    "total": 428.25,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 455,
-    "customer_id": 41,
-    "total": 613.59,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 456,
-    "customer_id": 57,
-    "total": 802.34,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 457,
-    "customer_id": 25,
-    "total": 780.33,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 458,
-    "customer_id": 76,
-    "total": 881.76,
-    "date": "2023-01-17"
-  },
-  {
-    "id": 459,
-    "customer_id": 70,
-    "total": 36.91,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 460,
-    "customer_id": 95,
-    "total": 556.84,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 461,
-    "customer_id": 43,
-    "total": 120.84,
-    "date": "2023-01-10"
-  },
-  {
-    "id": 462,
-    "customer_id": 81,
-    "total": 390.9,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 463,
-    "customer_id": 74,
-    "total": 291.14,
-    "date": "2023-01-22"
-  },
-  {
-    "id": 464,
-    "customer_id": 84,
-    "total": 902.41,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 465,
-    "customer_id": 30,
-    "total": 462.45,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 466,
-    "customer_id": 52,
-    "total": 767.98,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 467,
-    "customer_id": 67,
-    "total": 60.23,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 468,
-    "customer_id": 84,
-    "total": 650.23,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 469,
-    "customer_id": 35,
-    "total": 370.01,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 470,
-    "customer_id": 40,
-    "total": 17.32,
-    "date": "2023-02-16"
-  },
-  {
-    "id": 471,
-    "customer_id": 40,
-    "total": 33.21,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 472,
-    "customer_id": 93,
-    "total": 171.64,
-    "date": "2023-02-16"
-  },
-  {
-    "id": 473,
-    "customer_id": 87,
-    "total": 304.88,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 474,
-    "customer_id": 44,
-    "total": 430.8,
-    "date": "2023-01-27"
-  },
-  {
-    "id": 475,
-    "customer_id": 4,
-    "total": 204.79,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 476,
-    "customer_id": 17,
-    "total": 196.39,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 477,
-    "customer_id": 46,
-    "total": 600.81,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 478,
-    "customer_id": 9,
-    "total": 191.45,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 479,
-    "customer_id": 2,
-    "total": 159.48,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 480,
-    "customer_id": 51,
-    "total": 894.76,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 481,
-    "customer_id": 51,
-    "total": 939.38,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 482,
-    "customer_id": 94,
-    "total": 455.53,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 483,
-    "customer_id": 61,
-    "total": 741.79,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 484,
-    "customer_id": 80,
-    "total": 780.25,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 485,
-    "customer_id": 72,
-    "total": 269.32,
-    "date": "2023-01-27"
-  },
-  {
-    "id": 486,
-    "customer_id": 44,
-    "total": 749.05,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 487,
-    "customer_id": 49,
-    "total": 546.74,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 488,
-    "customer_id": 51,
-    "total": 442.87,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 489,
-    "customer_id": 77,
-    "total": 714.14,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 490,
-    "customer_id": 49,
-    "total": 575.97,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 491,
-    "customer_id": 61,
-    "total": 170.3,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 492,
-    "customer_id": 85,
-    "total": 401.38,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 493,
-    "customer_id": 4,
-    "total": 468.44,
+    "customer_id": 92,
+    "total": 358.31,
     "date": "2023-02-15"
   },
   {
-    "id": 494,
-    "customer_id": 25,
-    "total": 473.01,
+    "id": 419,
+    "customer_id": 95,
+    "total": 846.69,
+    "date": "2023-02-18"
+  },
+  {
+    "id": 420,
+    "customer_id": 53,
+    "total": 989.92,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 421,
+    "customer_id": 53,
+    "total": 313.97,
+    "date": "2023-01-22"
+  },
+  {
+    "id": 422,
+    "customer_id": 87,
+    "total": 617.99,
+    "date": "2023-03-15"
+  },
+  {
+    "id": 423,
+    "customer_id": 8,
+    "total": 934.39,
+    "date": "2023-02-14"
+  },
+  {
+    "id": 424,
+    "customer_id": 91,
+    "total": 75.21,
+    "date": "2023-03-15"
+  },
+  {
+    "id": 425,
+    "customer_id": 70,
+    "total": 602.87,
+    "date": "2023-01-01"
+  },
+  {
+    "id": 426,
+    "customer_id": 52,
+    "total": 929.04,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 427,
+    "customer_id": 82,
+    "total": 992.24,
+    "date": "2023-02-25"
+  },
+  {
+    "id": 428,
+    "customer_id": 80,
+    "total": 788.11,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 429,
+    "customer_id": 29,
+    "total": 802.88,
+    "date": "2023-01-09"
+  },
+  {
+    "id": 430,
+    "customer_id": 28,
+    "total": 298.83,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 431,
+    "customer_id": 55,
+    "total": 140.66,
+    "date": "2023-02-23"
+  },
+  {
+    "id": 432,
+    "customer_id": 6,
+    "total": 923.37,
+    "date": "2023-02-11"
+  },
+  {
+    "id": 433,
+    "customer_id": 38,
+    "total": 626.91,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 434,
+    "customer_id": 93,
+    "total": 977.01,
+    "date": "2023-01-07"
+  },
+  {
+    "id": 435,
+    "customer_id": 30,
+    "total": 680.62,
+    "date": "2023-03-18"
+  },
+  {
+    "id": 436,
+    "customer_id": 3,
+    "total": 203.82,
+    "date": "2023-02-17"
+  },
+  {
+    "id": 437,
+    "customer_id": 91,
+    "total": 528.35,
+    "date": "2023-03-20"
+  },
+  {
+    "id": 438,
+    "customer_id": 32,
+    "total": 424.68,
+    "date": "2023-02-18"
+  },
+  {
+    "id": 439,
+    "customer_id": 33,
+    "total": 746.54,
+    "date": "2023-01-04"
+  },
+  {
+    "id": 440,
+    "customer_id": 13,
+    "total": 12.34,
+    "date": "2023-02-21"
+  },
+  {
+    "id": 441,
+    "customer_id": 91,
+    "total": 300.54,
+    "date": "2023-02-14"
+  },
+  {
+    "id": 442,
+    "customer_id": 35,
+    "total": 956.35,
+    "date": "2023-01-12"
+  },
+  {
+    "id": 443,
+    "customer_id": 36,
+    "total": 76.33,
+    "date": "2023-01-23"
+  },
+  {
+    "id": 444,
+    "customer_id": 2,
+    "total": 225.44,
     "date": "2023-01-28"
   },
   {
-    "id": 495,
+    "id": 445,
+    "customer_id": 41,
+    "total": 429.16,
+    "date": "2023-03-15"
+  },
+  {
+    "id": 446,
+    "customer_id": 54,
+    "total": 154.49,
+    "date": "2023-02-04"
+  },
+  {
+    "id": 447,
+    "customer_id": 89,
+    "total": 293.9,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 448,
+    "customer_id": 95,
+    "total": 817.8,
+    "date": "2023-03-18"
+  },
+  {
+    "id": 449,
+    "customer_id": 3,
+    "total": 155.05,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 450,
+    "customer_id": 38,
+    "total": 825.47,
+    "date": "2023-02-10"
+  },
+  {
+    "id": 451,
+    "customer_id": 74,
+    "total": 596.17,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 452,
+    "customer_id": 89,
+    "total": 847,
+    "date": "2023-02-25"
+  },
+  {
+    "id": 453,
+    "customer_id": 97,
+    "total": 231.55,
+    "date": "2023-02-07"
+  },
+  {
+    "id": 454,
+    "customer_id": 48,
+    "total": 508.08,
+    "date": "2023-01-01"
+  },
+  {
+    "id": 455,
+    "customer_id": 21,
+    "total": 931.43,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 456,
+    "customer_id": 40,
+    "total": 771.31,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 457,
+    "customer_id": 32,
+    "total": 663.21,
+    "date": "2023-01-21"
+  },
+  {
+    "id": 458,
+    "customer_id": 100,
+    "total": 785.34,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 459,
+    "customer_id": 91,
+    "total": 780.53,
+    "date": "2023-02-28"
+  },
+  {
+    "id": 460,
+    "customer_id": 65,
+    "total": 162.63,
+    "date": "2023-02-19"
+  },
+  {
+    "id": 461,
+    "customer_id": 89,
+    "total": 532.25,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 462,
+    "customer_id": 48,
+    "total": 673.99,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 463,
+    "customer_id": 63,
+    "total": 294.17,
+    "date": "2023-03-22"
+  },
+  {
+    "id": 464,
+    "customer_id": 56,
+    "total": 793.3,
+    "date": "2023-01-21"
+  },
+  {
+    "id": 465,
+    "customer_id": 34,
+    "total": 55.9,
+    "date": "2023-01-21"
+  },
+  {
+    "id": 466,
+    "customer_id": 81,
+    "total": 197.49,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 467,
+    "customer_id": 92,
+    "total": 506.16,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 468,
+    "customer_id": 91,
+    "total": 760.25,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 469,
+    "customer_id": 5,
+    "total": 652.86,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 470,
+    "customer_id": 7,
+    "total": 837.18,
+    "date": "2023-01-29"
+  },
+  {
+    "id": 471,
+    "customer_id": 82,
+    "total": 256.76,
+    "date": "2023-01-28"
+  },
+  {
+    "id": 472,
+    "customer_id": 52,
+    "total": 188.97,
+    "date": "2023-02-01"
+  },
+  {
+    "id": 473,
+    "customer_id": 51,
+    "total": 243.1,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 474,
+    "customer_id": 100,
+    "total": 658.16,
+    "date": "2023-02-11"
+  },
+  {
+    "id": 475,
+    "customer_id": 55,
+    "total": 49.76,
+    "date": "2023-01-09"
+  },
+  {
+    "id": 476,
+    "customer_id": 35,
+    "total": 820.98,
+    "date": "2023-02-24"
+  },
+  {
+    "id": 477,
+    "customer_id": 91,
+    "total": 766.69,
+    "date": "2023-02-23"
+  },
+  {
+    "id": 478,
+    "customer_id": 69,
+    "total": 482.92,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 479,
+    "customer_id": 19,
+    "total": 832.75,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 480,
+    "customer_id": 39,
+    "total": 620.26,
+    "date": "2023-01-22"
+  },
+  {
+    "id": 481,
+    "customer_id": 67,
+    "total": 986.95,
+    "date": "2023-02-01"
+  },
+  {
+    "id": 482,
+    "customer_id": 22,
+    "total": 495.75,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 483,
+    "customer_id": 66,
+    "total": 986.96,
+    "date": "2023-02-19"
+  },
+  {
+    "id": 484,
+    "customer_id": 99,
+    "total": 917.16,
+    "date": "2023-02-09"
+  },
+  {
+    "id": 485,
+    "customer_id": 13,
+    "total": 645.08,
+    "date": "2023-02-16"
+  },
+  {
+    "id": 486,
+    "customer_id": 58,
+    "total": 989.5,
+    "date": "2023-01-13"
+  },
+  {
+    "id": 487,
+    "customer_id": 92,
+    "total": 196.44,
+    "date": "2023-01-29"
+  },
+  {
+    "id": 488,
+    "customer_id": 47,
+    "total": 260.16,
+    "date": "2023-02-16"
+  },
+  {
+    "id": 489,
+    "customer_id": 49,
+    "total": 880.02,
+    "date": "2023-03-27"
+  },
+  {
+    "id": 490,
+    "customer_id": 63,
+    "total": 679.37,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 491,
+    "customer_id": 27,
+    "total": 711.24,
+    "date": "2023-03-10"
+  },
+  {
+    "id": 492,
+    "customer_id": 56,
+    "total": 293.89,
+    "date": "2023-02-08"
+  },
+  {
+    "id": 493,
     "customer_id": 87,
-    "total": 66.64,
+    "total": 684.61,
+    "date": "2023-03-30"
+  },
+  {
+    "id": 494,
+    "customer_id": 45,
+    "total": 433.75,
+    "date": "2023-03-09"
+  },
+  {
+    "id": 495,
+    "customer_id": 63,
+    "total": 710.68,
     "date": "2023-02-27"
   },
   {
     "id": 496,
-    "customer_id": 8,
-    "total": 293.46,
-    "date": "2023-01-21"
+    "customer_id": 94,
+    "total": 730.2,
+    "date": "2023-01-23"
   },
   {
     "id": 497,
-    "customer_id": 46,
-    "total": 966.42,
-    "date": "2023-01-08"
+    "customer_id": 49,
+    "total": 447.18,
+    "date": "2023-03-01"
   },
   {
     "id": 498,
-    "customer_id": 56,
-    "total": 805.53,
-    "date": "2023-02-24"
+    "customer_id": 99,
+    "total": 880.79,
+    "date": "2023-02-15"
   },
   {
     "id": 499,
-    "customer_id": 56,
-    "total": 441.74,
-    "date": "2023-02-21"
+    "customer_id": 90,
+    "total": 590.97,
+    "date": "2023-02-22"
   },
   {
     "id": 500,
-    "customer_id": 50,
-    "total": 437.4,
-    "date": "2023-01-06"
+    "customer_id": 11,
+    "total": 421.95,
+    "date": "2023-02-03"
   },
   {
     "id": 501,
-    "customer_id": 12,
-    "total": 894.18,
-    "date": "2023-02-23"
+    "customer_id": 7,
+    "total": 404.75,
+    "date": "2023-02-18"
   },
   {
     "id": 502,
-    "customer_id": 92,
-    "total": 839.07,
-    "date": "2023-02-08"
-  },
-  {
-    "id": 503,
-    "customer_id": 63,
-    "total": 583.66,
+    "customer_id": 62,
+    "total": 216.55,
     "date": "2023-01-14"
   },
   {
+    "id": 503,
+    "customer_id": 56,
+    "total": 136.52,
+    "date": "2023-02-14"
+  },
+  {
     "id": 504,
-    "customer_id": 54,
-    "total": 565.41,
-    "date": "2023-01-08"
+    "customer_id": 57,
+    "total": 654.51,
+    "date": "2023-03-19"
   },
   {
     "id": 505,
-    "customer_id": 18,
-    "total": 956.4,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 506,
-    "customer_id": 66,
-    "total": 381.23,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 507,
-    "customer_id": 4,
-    "total": 197.49,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 508,
-    "customer_id": 12,
-    "total": 386.77,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 509,
-    "customer_id": 14,
-    "total": 234.61,
+    "customer_id": 96,
+    "total": 186.81,
     "date": "2023-02-09"
   },
   {
+    "id": 506,
+    "customer_id": 85,
+    "total": 472.99,
+    "date": "2023-02-18"
+  },
+  {
+    "id": 507,
+    "customer_id": 44,
+    "total": 393.89,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 508,
+    "customer_id": 27,
+    "total": 742.67,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 509,
+    "customer_id": 16,
+    "total": 987.31,
+    "date": "2023-03-26"
+  },
+  {
     "id": 510,
-    "customer_id": 23,
-    "total": 819.63,
-    "date": "2023-02-13"
+    "customer_id": 58,
+    "total": 598.06,
+    "date": "2023-02-19"
   },
   {
     "id": 511,
-    "customer_id": 54,
-    "total": 598.53,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 512,
-    "customer_id": 85,
-    "total": 974.61,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 513,
-    "customer_id": 92,
-    "total": 864.03,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 514,
-    "customer_id": 29,
-    "total": 91.39,
+    "customer_id": 26,
+    "total": 201.75,
     "date": "2023-01-24"
   },
   {
+    "id": 512,
+    "customer_id": 99,
+    "total": 430.41,
+    "date": "2023-02-06"
+  },
+  {
+    "id": 513,
+    "customer_id": 94,
+    "total": 784.05,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 514,
+    "customer_id": 20,
+    "total": 873.29,
+    "date": "2023-02-23"
+  },
+  {
     "id": 515,
-    "customer_id": 78,
-    "total": 764.42,
-    "date": "2023-01-16"
+    "customer_id": 50,
+    "total": 376.42,
+    "date": "2023-02-21"
   },
   {
     "id": 516,
-    "customer_id": 87,
-    "total": 189.79,
-    "date": "2023-02-17"
+    "customer_id": 54,
+    "total": 963.1,
+    "date": "2023-01-09"
   },
   {
     "id": 517,
-    "customer_id": 61,
-    "total": 242.18,
-    "date": "2023-02-10"
+    "customer_id": 38,
+    "total": 802.06,
+    "date": "2023-03-22"
   },
   {
     "id": 518,
-    "customer_id": 45,
-    "total": 882.16,
-    "date": "2023-02-08"
+    "customer_id": 96,
+    "total": 426.67,
+    "date": "2023-01-07"
   },
   {
     "id": 519,
-    "customer_id": 47,
-    "total": 626.45,
-    "date": "2023-01-04"
+    "customer_id": 15,
+    "total": 572.32,
+    "date": "2023-01-15"
   },
   {
     "id": 520,
-    "customer_id": 55,
-    "total": 776.96,
-    "date": "2023-01-11"
+    "customer_id": 68,
+    "total": 45.53,
+    "date": "2023-01-05"
   },
   {
     "id": 521,
-    "customer_id": 88,
-    "total": 949.03,
-    "date": "2023-01-30"
+    "customer_id": 40,
+    "total": 580.95,
+    "date": "2023-02-25"
   },
   {
     "id": 522,
-    "customer_id": 46,
-    "total": 73.52,
+    "customer_id": 26,
+    "total": 260.3,
     "date": "2023-01-01"
   },
   {
     "id": 523,
-    "customer_id": 59,
-    "total": 267.14,
-    "date": "2023-01-22"
+    "customer_id": 43,
+    "total": 965.42,
+    "date": "2023-02-03"
   },
   {
     "id": 524,
-    "customer_id": 47,
-    "total": 801.44,
-    "date": "2023-02-04"
+    "customer_id": 54,
+    "total": 902.72,
+    "date": "2023-03-25"
   },
   {
     "id": 525,
     "customer_id": 52,
-    "total": 857.84,
-    "date": "2023-02-16"
+    "total": 664.16,
+    "date": "2023-03-29"
   },
   {
     "id": 526,
-    "customer_id": 23,
-    "total": 261.55,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 527,
-    "customer_id": 32,
-    "total": 942.56,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 528,
-    "customer_id": 95,
-    "total": 849.12,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 529,
-    "customer_id": 30,
-    "total": 70.55,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 530,
-    "customer_id": 37,
-    "total": 542.74,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 531,
-    "customer_id": 44,
-    "total": 519.86,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 532,
-    "customer_id": 11,
-    "total": 985.31,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 533,
-    "customer_id": 54,
-    "total": 925.52,
-    "date": "2023-01-27"
-  },
-  {
-    "id": 534,
-    "customer_id": 54,
-    "total": 121.84,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 535,
-    "customer_id": 54,
-    "total": 511.7,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 536,
-    "customer_id": 11,
-    "total": 274.89,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 537,
-    "customer_id": 12,
-    "total": 690.52,
-    "date": "2023-02-15"
-  },
-  {
-    "id": 538,
     "customer_id": 72,
-    "total": 575.52,
+    "total": 729.91,
     "date": "2023-02-03"
   },
   {
-    "id": 539,
-    "customer_id": 16,
-    "total": 804.42,
-    "date": "2023-01-30"
+    "id": 527,
+    "customer_id": 91,
+    "total": 732.8,
+    "date": "2023-03-27"
   },
   {
-    "id": 540,
-    "customer_id": 20,
-    "total": 928.32,
-    "date": "2023-01-14"
+    "id": 528,
+    "customer_id": 15,
+    "total": 280.85,
+    "date": "2023-02-24"
   },
   {
-    "id": 541,
-    "customer_id": 3,
-    "total": 549.09,
-    "date": "2023-01-31"
+    "id": 529,
+    "customer_id": 67,
+    "total": 793.27,
+    "date": "2023-02-21"
   },
   {
-    "id": 542,
-    "customer_id": 86,
-    "total": 716.74,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 543,
-    "customer_id": 59,
-    "total": 959.16,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 544,
-    "customer_id": 79,
-    "total": 667.52,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 545,
+    "id": 530,
     "customer_id": 93,
-    "total": 195.2,
-    "date": "2023-01-20"
+    "total": 242.44,
+    "date": "2023-03-13"
   },
   {
-    "id": 546,
-    "customer_id": 52,
-    "total": 297.36,
-    "date": "2023-01-15"
+    "id": 531,
+    "customer_id": 81,
+    "total": 945.56,
+    "date": "2023-02-08"
   },
   {
-    "id": 547,
-    "customer_id": 12,
-    "total": 795.07,
-    "date": "2023-01-03"
+    "id": 532,
+    "customer_id": 3,
+    "total": 820.54,
+    "date": "2023-01-26"
   },
   {
-    "id": 548,
-    "customer_id": 11,
-    "total": 915.46,
-    "date": "2023-02-01"
+    "id": 533,
+    "customer_id": 53,
+    "total": 844.96,
+    "date": "2023-02-10"
   },
   {
-    "id": 549,
-    "customer_id": 6,
-    "total": 761.68,
-    "date": "2023-01-07"
+    "id": 534,
+    "customer_id": 83,
+    "total": 27.36,
+    "date": "2023-01-09"
   },
   {
-    "id": 550,
-    "customer_id": 23,
-    "total": 856.91,
-    "date": "2023-02-02"
+    "id": 535,
+    "customer_id": 13,
+    "total": 910.85,
+    "date": "2023-02-22"
   },
   {
-    "id": 551,
-    "customer_id": 60,
-    "total": 468.82,
-    "date": "2023-01-25"
+    "id": 536,
+    "customer_id": 44,
+    "total": 652.91,
+    "date": "2023-03-20"
   },
   {
-    "id": 552,
+    "id": 537,
     "customer_id": 79,
-    "total": 390.47,
-    "date": "2023-01-13"
+    "total": 977.29,
+    "date": "2023-02-25"
   },
   {
-    "id": 553,
-    "customer_id": 27,
-    "total": 126.6,
-    "date": "2023-02-04"
+    "id": 538,
+    "customer_id": 14,
+    "total": 446.35,
+    "date": "2023-03-13"
   },
   {
-    "id": 554,
-    "customer_id": 41,
-    "total": 164.5,
-    "date": "2023-01-17"
-  },
-  {
-    "id": 555,
-    "customer_id": 7,
-    "total": 588.02,
+    "id": 539,
+    "customer_id": 24,
+    "total": 933.73,
     "date": "2023-01-28"
   },
   {
-    "id": 556,
-    "customer_id": 39,
-    "total": 165.88,
-    "date": "2023-01-11"
+    "id": 540,
+    "customer_id": 49,
+    "total": 519.94,
+    "date": "2023-02-03"
   },
   {
-    "id": 557,
-    "customer_id": 54,
-    "total": 924.09,
+    "id": 541,
+    "customer_id": 27,
+    "total": 100.77,
+    "date": "2023-02-09"
+  },
+  {
+    "id": 542,
+    "customer_id": 62,
+    "total": 69.13,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 543,
+    "customer_id": 88,
+    "total": 846.04,
+    "date": "2023-02-18"
+  },
+  {
+    "id": 544,
+    "customer_id": 77,
+    "total": 799.56,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 545,
+    "customer_id": 33,
+    "total": 394.91,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 546,
+    "customer_id": 67,
+    "total": 539.1,
+    "date": "2023-02-07"
+  },
+  {
+    "id": 547,
+    "customer_id": 35,
+    "total": 104.45,
     "date": "2023-02-14"
   },
   {
+    "id": 548,
+    "customer_id": 45,
+    "total": 832.65,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 549,
+    "customer_id": 55,
+    "total": 869.02,
+    "date": "2023-02-24"
+  },
+  {
+    "id": 550,
+    "customer_id": 3,
+    "total": 339.35,
+    "date": "2023-01-01"
+  },
+  {
+    "id": 551,
+    "customer_id": 14,
+    "total": 944.43,
+    "date": "2023-02-23"
+  },
+  {
+    "id": 552,
+    "customer_id": 2,
+    "total": 138.01,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 553,
+    "customer_id": 59,
+    "total": 322.81,
+    "date": "2023-03-20"
+  },
+  {
+    "id": 554,
+    "customer_id": 34,
+    "total": 139.44,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 555,
+    "customer_id": 13,
+    "total": 396.41,
+    "date": "2023-03-30"
+  },
+  {
+    "id": 556,
+    "customer_id": 96,
+    "total": 52.34,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 557,
+    "customer_id": 76,
+    "total": 280.02,
+    "date": "2023-03-05"
+  },
+  {
     "id": 558,
-    "customer_id": 66,
-    "total": 863.73,
-    "date": "2023-01-17"
+    "customer_id": 8,
+    "total": 456.57,
+    "date": "2023-03-06"
   },
   {
     "id": 559,
-    "customer_id": 4,
-    "total": 695.21,
+    "customer_id": 8,
+    "total": 309.37,
     "date": "2023-01-27"
   },
   {
     "id": 560,
-    "customer_id": 9,
-    "total": 813.92,
-    "date": "2023-02-04"
+    "customer_id": 52,
+    "total": 900.68,
+    "date": "2023-03-30"
   },
   {
     "id": 561,
-    "customer_id": 13,
-    "total": 64.68,
-    "date": "2023-02-19"
+    "customer_id": 72,
+    "total": 560.66,
+    "date": "2023-01-03"
   },
   {
     "id": 562,
-    "customer_id": 69,
-    "total": 506.04,
-    "date": "2023-01-21"
+    "customer_id": 47,
+    "total": 533.79,
+    "date": "2023-03-27"
   },
   {
     "id": 563,
-    "customer_id": 88,
-    "total": 636.49,
-    "date": "2023-01-15"
+    "customer_id": 14,
+    "total": 288.72,
+    "date": "2023-03-24"
   },
   {
     "id": 564,
-    "customer_id": 32,
-    "total": 642.41,
-    "date": "2023-01-29"
+    "customer_id": 73,
+    "total": 536.39,
+    "date": "2023-02-04"
   },
   {
     "id": 565,
-    "customer_id": 26,
-    "total": 931.51,
-    "date": "2023-01-23"
+    "customer_id": 77,
+    "total": 78.82,
+    "date": "2023-01-12"
   },
   {
     "id": 566,
-    "customer_id": 26,
-    "total": 880.15,
-    "date": "2023-02-05"
+    "customer_id": 78,
+    "total": 260.15,
+    "date": "2023-03-20"
   },
   {
     "id": 567,
-    "customer_id": 22,
-    "total": 601.91,
-    "date": "2023-01-22"
+    "customer_id": 11,
+    "total": 975.5,
+    "date": "2023-01-05"
   },
   {
     "id": 568,
-    "customer_id": 30,
-    "total": 238.95,
-    "date": "2023-02-13"
+    "customer_id": 51,
+    "total": 940.36,
+    "date": "2023-02-09"
   },
   {
     "id": 569,
-    "customer_id": 47,
-    "total": 390.49,
-    "date": "2023-01-18"
+    "customer_id": 59,
+    "total": 741.55,
+    "date": "2023-01-07"
   },
   {
     "id": 570,
-    "customer_id": 12,
-    "total": 669.82,
-    "date": "2023-02-28"
+    "customer_id": 54,
+    "total": 694.32,
+    "date": "2023-02-13"
   },
   {
     "id": 571,
-    "customer_id": 19,
-    "total": 72.07,
-    "date": "2023-01-22"
+    "customer_id": 85,
+    "total": 479.22,
+    "date": "2023-02-28"
   },
   {
     "id": 572,
-    "customer_id": 72,
-    "total": 81.8,
-    "date": "2023-01-16"
+    "customer_id": 67,
+    "total": 794.49,
+    "date": "2023-03-22"
   },
   {
     "id": 573,
-    "customer_id": 97,
-    "total": 464.32,
-    "date": "2023-01-13"
+    "customer_id": 19,
+    "total": 720.04,
+    "date": "2023-03-24"
   },
   {
     "id": 574,
     "customer_id": 97,
-    "total": 680.79,
-    "date": "2023-02-02"
+    "total": 814.5,
+    "date": "2023-03-18"
   },
   {
     "id": 575,
-    "customer_id": 41,
-    "total": 253.79,
-    "date": "2023-02-06"
+    "customer_id": 8,
+    "total": 989.65,
+    "date": "2023-02-02"
   },
   {
     "id": 576,
-    "customer_id": 21,
-    "total": 764.19,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 577,
-    "customer_id": 38,
-    "total": 959.31,
+    "customer_id": 23,
+    "total": 869.41,
     "date": "2023-01-05"
   },
   {
+    "id": 577,
+    "customer_id": 87,
+    "total": 829.94,
+    "date": "2023-03-22"
+  },
+  {
     "id": 578,
-    "customer_id": 77,
-    "total": 338.75,
-    "date": "2023-01-01"
+    "customer_id": 75,
+    "total": 19.26,
+    "date": "2023-01-11"
   },
   {
     "id": 579,
-    "customer_id": 88,
-    "total": 553.52,
-    "date": "2023-02-05"
+    "customer_id": 10,
+    "total": 68.92,
+    "date": "2023-03-20"
   },
   {
     "id": 580,
-    "customer_id": 15,
-    "total": 818.6,
-    "date": "2023-01-24"
+    "customer_id": 74,
+    "total": 778.4,
+    "date": "2023-01-23"
   },
   {
     "id": 581,
-    "customer_id": 25,
-    "total": 880.48,
-    "date": "2023-02-14"
+    "customer_id": 21,
+    "total": 549.97,
+    "date": "2023-02-13"
   },
   {
     "id": 582,
-    "customer_id": 100,
-    "total": 374.74,
-    "date": "2023-01-18"
+    "customer_id": 41,
+    "total": 293.93,
+    "date": "2023-02-10"
   },
   {
     "id": 583,
-    "customer_id": 97,
-    "total": 777.35,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 584,
-    "customer_id": 10,
-    "total": 535.33,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 585,
-    "customer_id": 47,
-    "total": 152.11,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 586,
-    "customer_id": 54,
-    "total": 836.4,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 587,
-    "customer_id": 46,
-    "total": 427.95,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 588,
-    "customer_id": 83,
-    "total": 747.4,
+    "customer_id": 11,
+    "total": 178.33,
     "date": "2023-01-21"
   },
   {
+    "id": 584,
+    "customer_id": 76,
+    "total": 975.94,
+    "date": "2023-01-13"
+  },
+  {
+    "id": 585,
+    "customer_id": 28,
+    "total": 664.02,
+    "date": "2023-02-13"
+  },
+  {
+    "id": 586,
+    "customer_id": 71,
+    "total": 731.15,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 587,
+    "customer_id": 27,
+    "total": 286.39,
+    "date": "2023-01-29"
+  },
+  {
+    "id": 588,
+    "customer_id": 62,
+    "total": 452.36,
+    "date": "2023-02-25"
+  },
+  {
     "id": 589,
-    "customer_id": 13,
-    "total": 704.1,
-    "date": "2023-01-10"
+    "customer_id": 81,
+    "total": 740.29,
+    "date": "2023-01-21"
   },
   {
     "id": 590,
-    "customer_id": 15,
-    "total": 125.29,
-    "date": "2023-02-07"
+    "customer_id": 1,
+    "total": 279.12,
+    "date": "2023-01-20"
   },
   {
     "id": 591,
-    "customer_id": 63,
-    "total": 333.37,
-    "date": "2023-01-30"
+    "customer_id": 33,
+    "total": 589.4,
+    "date": "2023-01-17"
   },
   {
     "id": 592,
-    "customer_id": 62,
-    "total": 612.54,
-    "date": "2023-01-29"
+    "customer_id": 29,
+    "total": 874.25,
+    "date": "2023-01-20"
   },
   {
     "id": 593,
-    "customer_id": 85,
-    "total": 777.59,
-    "date": "2023-01-29"
+    "customer_id": 26,
+    "total": 641.79,
+    "date": "2023-02-14"
   },
   {
     "id": 594,
-    "customer_id": 68,
-    "total": 955.76,
-    "date": "2023-01-08"
+    "customer_id": 18,
+    "total": 911.87,
+    "date": "2023-02-13"
   },
   {
     "id": 595,
     "customer_id": 49,
-    "total": 559.72,
-    "date": "2023-01-13"
+    "total": 321.01,
+    "date": "2023-01-08"
   },
   {
     "id": 596,
-    "customer_id": 38,
-    "total": 229.43,
-    "date": "2023-01-28"
+    "customer_id": 17,
+    "total": 29.27,
+    "date": "2023-03-27"
   },
   {
     "id": 597,
-    "customer_id": 85,
-    "total": 265.98,
-    "date": "2023-01-06"
+    "customer_id": 89,
+    "total": 248.32,
+    "date": "2023-03-29"
   },
   {
     "id": 598,
-    "customer_id": 89,
-    "total": 839.8,
-    "date": "2023-01-15"
+    "customer_id": 42,
+    "total": 257.5,
+    "date": "2023-01-07"
   },
   {
     "id": 599,
-    "customer_id": 81,
-    "total": 556.25,
-    "date": "2023-02-14"
+    "customer_id": 47,
+    "total": 481.5,
+    "date": "2023-03-30"
   },
   {
     "id": 600,
-    "customer_id": 28,
-    "total": 327.61,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 601,
-    "customer_id": 78,
-    "total": 645.46,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 602,
-    "customer_id": 97,
-    "total": 547.69,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 603,
-    "customer_id": 62,
-    "total": 281.13,
-    "date": "2023-02-14"
-  },
-  {
-    "id": 604,
-    "customer_id": 40,
-    "total": 585.54,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 605,
-    "customer_id": 56,
-    "total": 588.24,
-    "date": "2023-01-13"
-  },
-  {
-    "id": 606,
-    "customer_id": 31,
-    "total": 747.03,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 607,
-    "customer_id": 63,
-    "total": 236.89,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 608,
-    "customer_id": 55,
-    "total": 883.08,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 609,
-    "customer_id": 47,
-    "total": 352.21,
-    "date": "2023-01-10"
-  },
-  {
-    "id": 610,
-    "customer_id": 47,
-    "total": 392.89,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 611,
-    "customer_id": 47,
-    "total": 491.12,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 612,
-    "customer_id": 84,
-    "total": 31.1,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 613,
-    "customer_id": 90,
-    "total": 342.55,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 614,
-    "customer_id": 85,
-    "total": 353.4,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 615,
-    "customer_id": 35,
-    "total": 911.6,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 616,
-    "customer_id": 17,
-    "total": 245.31,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 617,
-    "customer_id": 55,
-    "total": 530.59,
-    "date": "2023-01-13"
-  },
-  {
-    "id": 618,
-    "customer_id": 31,
-    "total": 661.19,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 619,
-    "customer_id": 52,
-    "total": 280.22,
+    "customer_id": 48,
+    "total": 977.86,
     "date": "2023-01-25"
   },
   {
-    "id": 620,
-    "customer_id": 39,
-    "total": 557.56,
-    "date": "2023-01-13"
+    "id": 601,
+    "customer_id": 68,
+    "total": 796.2,
+    "date": "2023-03-07"
   },
   {
-    "id": 621,
-    "customer_id": 6,
-    "total": 488.52,
-    "date": "2023-01-26"
+    "id": 602,
+    "customer_id": 84,
+    "total": 225.31,
+    "date": "2023-03-09"
   },
   {
-    "id": 622,
-    "customer_id": 26,
-    "total": 204.98,
-    "date": "2023-02-20"
+    "id": 603,
+    "customer_id": 92,
+    "total": 69.83,
+    "date": "2023-03-26"
   },
   {
-    "id": 623,
-    "customer_id": 62,
-    "total": 418.33,
-    "date": "2023-02-25"
+    "id": 604,
+    "customer_id": 86,
+    "total": 654.67,
+    "date": "2023-03-14"
   },
   {
-    "id": 624,
-    "customer_id": 78,
-    "total": 461.26,
-    "date": "2023-01-03"
+    "id": 605,
+    "customer_id": 81,
+    "total": 462.83,
+    "date": "2023-03-17"
   },
   {
-    "id": 625,
-    "customer_id": 27,
-    "total": 254.52,
-    "date": "2023-01-27"
+    "id": 606,
+    "customer_id": 19,
+    "total": 16.3,
+    "date": "2023-03-13"
   },
   {
-    "id": 626,
-    "customer_id": 34,
-    "total": 687.42,
-    "date": "2023-01-24"
+    "id": 607,
+    "customer_id": 94,
+    "total": 275.79,
+    "date": "2023-01-11"
   },
   {
-    "id": 627,
-    "customer_id": 80,
-    "total": 391.23,
-    "date": "2023-01-03"
+    "id": 608,
+    "customer_id": 89,
+    "total": 387.91,
+    "date": "2023-01-14"
   },
   {
-    "id": 628,
-    "customer_id": 43,
-    "total": 69.38,
+    "id": 609,
+    "customer_id": 96,
+    "total": 189.26,
+    "date": "2023-01-11"
+  },
+  {
+    "id": 610,
+    "customer_id": 50,
+    "total": 776.96,
+    "date": "2023-01-18"
+  },
+  {
+    "id": 611,
+    "customer_id": 18,
+    "total": 245.82,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 612,
+    "customer_id": 85,
+    "total": 375.33,
+    "date": "2023-03-30"
+  },
+  {
+    "id": 613,
+    "customer_id": 30,
+    "total": 210.48,
+    "date": "2023-01-28"
+  },
+  {
+    "id": 614,
+    "customer_id": 74,
+    "total": 909.4,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 615,
+    "customer_id": 59,
+    "total": 365.29,
+    "date": "2023-01-04"
+  },
+  {
+    "id": 616,
+    "customer_id": 53,
+    "total": 735.65,
     "date": "2023-01-12"
   },
   {
+    "id": 617,
+    "customer_id": 9,
+    "total": 39.48,
+    "date": "2023-01-18"
+  },
+  {
+    "id": 618,
+    "customer_id": 15,
+    "total": 497.5,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 619,
+    "customer_id": 80,
+    "total": 771.59,
+    "date": "2023-02-12"
+  },
+  {
+    "id": 620,
+    "customer_id": 7,
+    "total": 351.97,
+    "date": "2023-02-28"
+  },
+  {
+    "id": 621,
+    "customer_id": 5,
+    "total": 467.05,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 622,
+    "customer_id": 2,
+    "total": 285.75,
+    "date": "2023-01-11"
+  },
+  {
+    "id": 623,
+    "customer_id": 4,
+    "total": 372.89,
+    "date": "2023-01-07"
+  },
+  {
+    "id": 624,
+    "customer_id": 44,
+    "total": 322.16,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 625,
+    "customer_id": 35,
+    "total": 904.93,
+    "date": "2023-02-07"
+  },
+  {
+    "id": 626,
+    "customer_id": 42,
+    "total": 408.03,
+    "date": "2023-01-23"
+  },
+  {
+    "id": 627,
+    "customer_id": 33,
+    "total": 613.9,
+    "date": "2023-02-13"
+  },
+  {
+    "id": 628,
+    "customer_id": 21,
+    "total": 871.18,
+    "date": "2023-01-04"
+  },
+  {
     "id": 629,
-    "customer_id": 11,
-    "total": 866.67,
-    "date": "2023-01-20"
+    "customer_id": 82,
+    "total": 808.74,
+    "date": "2023-02-12"
   },
   {
     "id": 630,
-    "customer_id": 85,
-    "total": 856.77,
-    "date": "2023-02-22"
+    "customer_id": 76,
+    "total": 759.45,
+    "date": "2023-01-19"
   },
   {
     "id": 631,
     "customer_id": 7,
-    "total": 906.04,
-    "date": "2023-02-19"
+    "total": 62.6,
+    "date": "2023-03-14"
   },
   {
     "id": 632,
-    "customer_id": 87,
-    "total": 743.98,
-    "date": "2023-01-24"
+    "customer_id": 94,
+    "total": 197.45,
+    "date": "2023-01-05"
   },
   {
     "id": 633,
-    "customer_id": 92,
-    "total": 878.98,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 634,
-    "customer_id": 3,
-    "total": 117.66,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 635,
-    "customer_id": 61,
-    "total": 245.57,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 636,
-    "customer_id": 90,
-    "total": 704.14,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 637,
-    "customer_id": 40,
-    "total": 436.43,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 638,
-    "customer_id": 45,
-    "total": 510.09,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 639,
-    "customer_id": 72,
-    "total": 593.62,
-    "date": "2023-01-17"
-  },
-  {
-    "id": 640,
-    "customer_id": 35,
-    "total": 582.86,
-    "date": "2023-02-14"
-  },
-  {
-    "id": 641,
-    "customer_id": 21,
-    "total": 50.84,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 642,
-    "customer_id": 25,
-    "total": 446.9,
-    "date": "2023-02-15"
-  },
-  {
-    "id": 643,
-    "customer_id": 92,
-    "total": 306.65,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 644,
-    "customer_id": 9,
-    "total": 269.93,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 645,
-    "customer_id": 38,
-    "total": 656.66,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 646,
-    "customer_id": 84,
-    "total": 175.54,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 647,
-    "customer_id": 91,
-    "total": 830.16,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 648,
-    "customer_id": 22,
-    "total": 605.83,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 649,
-    "customer_id": 80,
-    "total": 560.68,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 650,
-    "customer_id": 33,
-    "total": 612.27,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 651,
-    "customer_id": 1,
-    "total": 485.97,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 652,
-    "customer_id": 12,
-    "total": 777.96,
-    "date": "2023-01-13"
-  },
-  {
-    "id": 653,
-    "customer_id": 26,
-    "total": 131.43,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 654,
-    "customer_id": 7,
-    "total": 456.9,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 655,
-    "customer_id": 25,
-    "total": 968.67,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 656,
-    "customer_id": 19,
-    "total": 599.45,
-    "date": "2023-01-10"
-  },
-  {
-    "id": 657,
-    "customer_id": 51,
-    "total": 195.59,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 658,
-    "customer_id": 55,
-    "total": 250.26,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 659,
-    "customer_id": 16,
-    "total": 655.37,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 660,
-    "customer_id": 11,
-    "total": 690.83,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 661,
-    "customer_id": 85,
-    "total": 14.69,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 662,
-    "customer_id": 74,
-    "total": 559.31,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 663,
-    "customer_id": 37,
-    "total": 509.28,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 664,
-    "customer_id": 77,
-    "total": 293.33,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 665,
-    "customer_id": 61,
-    "total": 700.5,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 666,
-    "customer_id": 23,
-    "total": 283.05,
-    "date": "2023-01-17"
-  },
-  {
-    "id": 667,
-    "customer_id": 42,
-    "total": 889.31,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 668,
-    "customer_id": 37,
-    "total": 369.48,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 669,
-    "customer_id": 27,
-    "total": 461.28,
-    "date": "2023-01-13"
-  },
-  {
-    "id": 670,
-    "customer_id": 35,
-    "total": 912.64,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 671,
-    "customer_id": 7,
-    "total": 355.72,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 672,
-    "customer_id": 10,
-    "total": 551.86,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 673,
-    "customer_id": 93,
-    "total": 991.18,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 674,
-    "customer_id": 66,
-    "total": 955.31,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 675,
-    "customer_id": 98,
-    "total": 159.12,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 676,
-    "customer_id": 94,
-    "total": 559.22,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 677,
-    "customer_id": 10,
-    "total": 306.67,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 678,
-    "customer_id": 22,
-    "total": 146.06,
-    "date": "2023-02-13"
-  },
-  {
-    "id": 679,
-    "customer_id": 3,
-    "total": 932.24,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 680,
-    "customer_id": 62,
-    "total": 381.69,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 681,
-    "customer_id": 30,
-    "total": 908.99,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 682,
-    "customer_id": 36,
-    "total": 654.53,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 683,
-    "customer_id": 49,
-    "total": 327.54,
-    "date": "2023-02-21"
-  },
-  {
-    "id": 684,
-    "customer_id": 49,
-    "total": 85.29,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 685,
-    "customer_id": 62,
-    "total": 39.11,
-    "date": "2023-02-16"
-  },
-  {
-    "id": 686,
-    "customer_id": 26,
-    "total": 970,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 687,
-    "customer_id": 65,
-    "total": 704.42,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 688,
-    "customer_id": 100,
-    "total": 722.53,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 689,
-    "customer_id": 9,
-    "total": 833.7,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 690,
     "customer_id": 76,
-    "total": 745.39,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 691,
-    "customer_id": 73,
-    "total": 203.69,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 692,
-    "customer_id": 52,
-    "total": 858.46,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 693,
-    "customer_id": 91,
-    "total": 274.02,
-    "date": "2023-02-08"
-  },
-  {
-    "id": 694,
-    "customer_id": 54,
-    "total": 18.53,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 695,
-    "customer_id": 7,
-    "total": 923.9,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 696,
-    "customer_id": 95,
-    "total": 391.12,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 697,
-    "customer_id": 21,
-    "total": 52.04,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 698,
-    "customer_id": 95,
-    "total": 355.27,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 699,
-    "customer_id": 57,
-    "total": 153.78,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 700,
-    "customer_id": 9,
-    "total": 702.7,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 701,
-    "customer_id": 18,
-    "total": 437.2,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 702,
-    "customer_id": 15,
-    "total": 49.88,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 703,
-    "customer_id": 37,
-    "total": 852.32,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 704,
-    "customer_id": 65,
-    "total": 287.71,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 705,
-    "customer_id": 90,
-    "total": 623.24,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 706,
-    "customer_id": 29,
-    "total": 121.61,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 707,
-    "customer_id": 62,
-    "total": 413.6,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 708,
-    "customer_id": 59,
-    "total": 731.76,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 709,
-    "customer_id": 35,
-    "total": 654.31,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 710,
-    "customer_id": 56,
-    "total": 859.5,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 711,
-    "customer_id": 18,
-    "total": 967.23,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 712,
-    "customer_id": 38,
-    "total": 848.99,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 713,
-    "customer_id": 0,
-    "total": 447.28,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 714,
-    "customer_id": 55,
-    "total": 771.45,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 715,
-    "customer_id": 19,
-    "total": 143.43,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 716,
-    "customer_id": 77,
-    "total": 270.52,
-    "date": "2023-02-23"
-  },
-  {
-    "id": 717,
-    "customer_id": 7,
-    "total": 188.37,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 718,
-    "customer_id": 86,
-    "total": 120.41,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 719,
-    "customer_id": 64,
-    "total": 396.3,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 720,
-    "customer_id": 54,
-    "total": 398,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 721,
-    "customer_id": 88,
-    "total": 364.89,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 722,
-    "customer_id": 79,
-    "total": 450.55,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 723,
-    "customer_id": 74,
-    "total": 115.59,
-    "date": "2023-01-14"
-  },
-  {
-    "id": 724,
-    "customer_id": 36,
-    "total": 90.99,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 725,
-    "customer_id": 69,
-    "total": 431.11,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 726,
-    "customer_id": 81,
-    "total": 972.43,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 727,
-    "customer_id": 57,
-    "total": 670.36,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 728,
-    "customer_id": 31,
-    "total": 827.97,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 729,
-    "customer_id": 90,
-    "total": 367.03,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 730,
-    "customer_id": 89,
-    "total": 868.4,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 731,
-    "customer_id": 87,
-    "total": 791.31,
-    "date": "2023-01-22"
-  },
-  {
-    "id": 732,
-    "customer_id": 86,
-    "total": 884.29,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 733,
-    "customer_id": 23,
-    "total": 501.9,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 734,
-    "customer_id": 71,
-    "total": 297.95,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 735,
-    "customer_id": 56,
-    "total": 365.96,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 736,
-    "customer_id": 94,
-    "total": 633.25,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 737,
-    "customer_id": 40,
-    "total": 241.12,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 738,
-    "customer_id": 79,
-    "total": 266.8,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 739,
-    "customer_id": 84,
-    "total": 816.74,
-    "date": "2023-02-08"
-  },
-  {
-    "id": 740,
-    "customer_id": 60,
-    "total": 684.4,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 741,
-    "customer_id": 27,
-    "total": 60.12,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 742,
-    "customer_id": 39,
-    "total": 970.12,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 743,
-    "customer_id": 72,
-    "total": 409.81,
-    "date": "2023-01-10"
-  },
-  {
-    "id": 744,
-    "customer_id": 4,
-    "total": 769.84,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 745,
-    "customer_id": 66,
-    "total": 84.13,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 746,
-    "customer_id": 85,
-    "total": 674.96,
-    "date": "2023-02-04"
-  },
-  {
-    "id": 747,
-    "customer_id": 1,
-    "total": 76.12,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 748,
-    "customer_id": 58,
-    "total": 337.1,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 749,
-    "customer_id": 63,
-    "total": 375.61,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 750,
-    "customer_id": 0,
-    "total": 27.04,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 751,
-    "customer_id": 72,
-    "total": 480.66,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 752,
-    "customer_id": 92,
-    "total": 43.62,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 753,
-    "customer_id": 93,
-    "total": 259.75,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 754,
-    "customer_id": 21,
-    "total": 698.22,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 755,
-    "customer_id": 11,
-    "total": 221.61,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 756,
-    "customer_id": 31,
-    "total": 522.46,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 757,
-    "customer_id": 88,
-    "total": 209.53,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 758,
-    "customer_id": 24,
-    "total": 176.73,
-    "date": "2023-01-27"
-  },
-  {
-    "id": 759,
-    "customer_id": 35,
-    "total": 367.61,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 760,
-    "customer_id": 60,
-    "total": 665.65,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 761,
-    "customer_id": 95,
-    "total": 350.39,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 762,
-    "customer_id": 49,
-    "total": 49.48,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 763,
-    "customer_id": 70,
-    "total": 490.1,
-    "date": "2023-02-15"
-  },
-  {
-    "id": 764,
-    "customer_id": 59,
-    "total": 372.83,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 765,
-    "customer_id": 70,
-    "total": 616.1,
-    "date": "2023-02-24"
-  },
-  {
-    "id": 766,
-    "customer_id": 47,
-    "total": 869.1,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 767,
-    "customer_id": 57,
-    "total": 925.2,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 768,
-    "customer_id": 37,
-    "total": 268.26,
-    "date": "2023-02-04"
-  },
-  {
-    "id": 769,
-    "customer_id": 40,
-    "total": 200.98,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 770,
-    "customer_id": 46,
-    "total": 871.63,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 771,
-    "customer_id": 46,
-    "total": 209.94,
-    "date": "2023-02-04"
-  },
-  {
-    "id": 772,
-    "customer_id": 99,
-    "total": 791.46,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 773,
-    "customer_id": 67,
-    "total": 710.66,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 774,
-    "customer_id": 66,
-    "total": 855.29,
+    "total": 314.31,
     "date": "2023-01-31"
   },
   {
-    "id": 775,
-    "customer_id": 61,
-    "total": 257.72,
-    "date": "2023-02-12"
+    "id": 634,
+    "customer_id": 49,
+    "total": 957.69,
+    "date": "2023-02-07"
   },
   {
-    "id": 776,
-    "customer_id": 25,
-    "total": 947.56,
-    "date": "2023-01-16"
+    "id": 635,
+    "customer_id": 45,
+    "total": 775.13,
+    "date": "2023-03-08"
   },
   {
-    "id": 777,
-    "customer_id": 17,
-    "total": 173.45,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 778,
-    "customer_id": 76,
-    "total": 118.72,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 779,
-    "customer_id": 47,
-    "total": 265.93,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 780,
-    "customer_id": 47,
-    "total": 45.1,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 781,
-    "customer_id": 20,
-    "total": 576.39,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 782,
-    "customer_id": 91,
-    "total": 353.59,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 783,
-    "customer_id": 94,
-    "total": 118.5,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 784,
-    "customer_id": 28,
-    "total": 519.4,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 785,
-    "customer_id": 56,
-    "total": 230.14,
-    "date": "2023-01-04"
-  },
-  {
-    "id": 786,
-    "customer_id": 2,
-    "total": 67.82,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 787,
-    "customer_id": 71,
-    "total": 43.61,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 788,
-    "customer_id": 62,
-    "total": 146.26,
-    "date": "2023-01-10"
-  },
-  {
-    "id": 789,
-    "customer_id": 21,
-    "total": 324.98,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 790,
-    "customer_id": 9,
-    "total": 508.5,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 791,
-    "customer_id": 87,
-    "total": 290.17,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 792,
-    "customer_id": 12,
-    "total": 914.8,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 793,
-    "customer_id": 95,
-    "total": 113.78,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 794,
-    "customer_id": 88,
-    "total": 185.52,
-    "date": "2023-01-13"
-  },
-  {
-    "id": 795,
-    "customer_id": 78,
-    "total": 102.21,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 796,
-    "customer_id": 66,
-    "total": 436.94,
-    "date": "2023-01-13"
-  },
-  {
-    "id": 797,
-    "customer_id": 65,
-    "total": 569.29,
-    "date": "2023-01-14"
-  },
-  {
-    "id": 798,
-    "customer_id": 74,
-    "total": 346.46,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 799,
-    "customer_id": 21,
-    "total": 638.89,
-    "date": "2023-01-30"
-  },
-  {
-    "id": 800,
-    "customer_id": 100,
-    "total": 272.88,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 801,
-    "customer_id": 74,
-    "total": 831.42,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 802,
-    "customer_id": 31,
-    "total": 435.29,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 803,
-    "customer_id": 97,
-    "total": 391.16,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 804,
-    "customer_id": 35,
-    "total": 340.8,
-    "date": "2023-01-17"
-  },
-  {
-    "id": 805,
-    "customer_id": 19,
-    "total": 815.29,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 806,
-    "customer_id": 3,
-    "total": 592.43,
-    "date": "2023-02-25"
-  },
-  {
-    "id": 807,
-    "customer_id": 78,
-    "total": 191.52,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 808,
-    "customer_id": 8,
-    "total": 143.97,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 809,
-    "customer_id": 37,
-    "total": 598.63,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 810,
-    "customer_id": 26,
-    "total": 600.36,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 811,
-    "customer_id": 82,
-    "total": 844.93,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 812,
-    "customer_id": 78,
-    "total": 209.74,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 813,
-    "customer_id": 5,
-    "total": 221.14,
-    "date": "2023-01-23"
-  },
-  {
-    "id": 814,
-    "customer_id": 66,
-    "total": 86.5,
-    "date": "2023-02-28"
-  },
-  {
-    "id": 815,
-    "customer_id": 81,
-    "total": 57.65,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 816,
-    "customer_id": 74,
-    "total": 622.79,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 817,
-    "customer_id": 38,
-    "total": 673.3,
+    "id": 636,
+    "customer_id": 73,
+    "total": 746.48,
     "date": "2023-02-14"
   },
   {
-    "id": 818,
-    "customer_id": 28,
-    "total": 223.15,
-    "date": "2023-02-20"
+    "id": 637,
+    "customer_id": 17,
+    "total": 106.32,
+    "date": "2023-03-07"
   },
   {
-    "id": 819,
-    "customer_id": 5,
-    "total": 856.25,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 820,
-    "customer_id": 14,
-    "total": 618.65,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 821,
-    "customer_id": 69,
-    "total": 558.2,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 822,
-    "customer_id": 8,
-    "total": 877.07,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 823,
-    "customer_id": 53,
-    "total": 641.3,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 824,
-    "customer_id": 59,
-    "total": 649.61,
+    "id": 638,
+    "customer_id": 40,
+    "total": 544.83,
     "date": "2023-02-05"
   },
   {
-    "id": 825,
+    "id": 639,
+    "customer_id": 47,
+    "total": 870.34,
+    "date": "2023-01-22"
+  },
+  {
+    "id": 640,
+    "customer_id": 4,
+    "total": 257.42,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 641,
+    "customer_id": 33,
+    "total": 373.77,
+    "date": "2023-02-09"
+  },
+  {
+    "id": 642,
+    "customer_id": 12,
+    "total": 336,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 643,
+    "customer_id": 49,
+    "total": 348.34,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 644,
+    "customer_id": 18,
+    "total": 984.44,
+    "date": "2023-02-12"
+  },
+  {
+    "id": 645,
+    "customer_id": 26,
+    "total": 800.81,
+    "date": "2023-03-17"
+  },
+  {
+    "id": 646,
+    "customer_id": 63,
+    "total": 465.08,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 647,
+    "customer_id": 50,
+    "total": 418.23,
+    "date": "2023-03-09"
+  },
+  {
+    "id": 648,
+    "customer_id": 89,
+    "total": 390.33,
+    "date": "2023-01-16"
+  },
+  {
+    "id": 649,
+    "customer_id": 51,
+    "total": 585.24,
+    "date": "2023-01-23"
+  },
+  {
+    "id": 650,
+    "customer_id": 76,
+    "total": 129.11,
+    "date": "2023-02-05"
+  },
+  {
+    "id": 651,
+    "customer_id": 38,
+    "total": 163.39,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 652,
+    "customer_id": 59,
+    "total": 948.05,
+    "date": "2023-01-29"
+  },
+  {
+    "id": 653,
+    "customer_id": 35,
+    "total": 993.37,
+    "date": "2023-02-28"
+  },
+  {
+    "id": 654,
+    "customer_id": 29,
+    "total": 580.6,
+    "date": "2023-03-14"
+  },
+  {
+    "id": 655,
+    "customer_id": 34,
+    "total": 205.98,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 656,
+    "customer_id": 36,
+    "total": 685.3,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 657,
+    "customer_id": 26,
+    "total": 878.61,
+    "date": "2023-01-14"
+  },
+  {
+    "id": 658,
+    "customer_id": 14,
+    "total": 674.92,
+    "date": "2023-01-21"
+  },
+  {
+    "id": 659,
+    "customer_id": 74,
+    "total": 103.44,
+    "date": "2023-02-18"
+  },
+  {
+    "id": 660,
+    "customer_id": 89,
+    "total": 320.7,
+    "date": "2023-02-16"
+  },
+  {
+    "id": 661,
+    "customer_id": 90,
+    "total": 461.2,
+    "date": "2023-01-29"
+  },
+  {
+    "id": 662,
+    "customer_id": 44,
+    "total": 612.51,
+    "date": "2023-02-07"
+  },
+  {
+    "id": 663,
+    "customer_id": 51,
+    "total": 238.44,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 664,
+    "customer_id": 58,
+    "total": 290.89,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 665,
+    "customer_id": 84,
+    "total": 15.42,
+    "date": "2023-02-12"
+  },
+  {
+    "id": 666,
+    "customer_id": 57,
+    "total": 249.76,
+    "date": "2023-03-12"
+  },
+  {
+    "id": 667,
+    "customer_id": 46,
+    "total": 138.25,
+    "date": "2023-01-28"
+  },
+  {
+    "id": 668,
     "customer_id": 73,
-    "total": 620.98,
+    "total": 975.76,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 669,
+    "customer_id": 57,
+    "total": 372.64,
+    "date": "2023-01-28"
+  },
+  {
+    "id": 670,
+    "customer_id": 14,
+    "total": 389.39,
+    "date": "2023-01-08"
+  },
+  {
+    "id": 671,
+    "customer_id": 49,
+    "total": 686.83,
+    "date": "2023-02-15"
+  },
+  {
+    "id": 672,
+    "customer_id": 42,
+    "total": 339.28,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 673,
+    "customer_id": 48,
+    "total": 351.58,
+    "date": "2023-02-01"
+  },
+  {
+    "id": 674,
+    "customer_id": 47,
+    "total": 368.98,
+    "date": "2023-02-24"
+  },
+  {
+    "id": 675,
+    "customer_id": 93,
+    "total": 542.69,
+    "date": "2023-02-04"
+  },
+  {
+    "id": 676,
+    "customer_id": 64,
+    "total": 844.4,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 677,
+    "customer_id": 31,
+    "total": 193.49,
+    "date": "2023-01-04"
+  },
+  {
+    "id": 678,
+    "customer_id": 77,
+    "total": 626.84,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 679,
+    "customer_id": 44,
+    "total": 387.28,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 680,
+    "customer_id": 99,
+    "total": 954.03,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 681,
+    "customer_id": 56,
+    "total": 293.03,
+    "date": "2023-01-08"
+  },
+  {
+    "id": 682,
+    "customer_id": 87,
+    "total": 940.2,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 683,
+    "customer_id": 15,
+    "total": 255.85,
+    "date": "2023-02-05"
+  },
+  {
+    "id": 684,
+    "customer_id": 74,
+    "total": 804.68,
+    "date": "2023-03-22"
+  },
+  {
+    "id": 685,
+    "customer_id": 82,
+    "total": 788.8,
+    "date": "2023-01-10"
+  },
+  {
+    "id": 686,
+    "customer_id": 65,
+    "total": 24.87,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 687,
+    "customer_id": 20,
+    "total": 854.58,
+    "date": "2023-02-20"
+  },
+  {
+    "id": 688,
+    "customer_id": 29,
+    "total": 409.63,
+    "date": "2023-02-12"
+  },
+  {
+    "id": 689,
+    "customer_id": 13,
+    "total": 498.75,
+    "date": "2023-01-04"
+  },
+  {
+    "id": 690,
+    "customer_id": 75,
+    "total": 661.81,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 691,
+    "customer_id": 35,
+    "total": 387.39,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 692,
+    "customer_id": 47,
+    "total": 462.17,
+    "date": "2023-03-15"
+  },
+  {
+    "id": 693,
+    "customer_id": 85,
+    "total": 297.08,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 694,
+    "customer_id": 18,
+    "total": 921.95,
+    "date": "2023-02-25"
+  },
+  {
+    "id": 695,
+    "customer_id": 63,
+    "total": 660.1,
+    "date": "2023-03-17"
+  },
+  {
+    "id": 696,
+    "customer_id": 14,
+    "total": 73.63,
+    "date": "2023-02-18"
+  },
+  {
+    "id": 697,
+    "customer_id": 82,
+    "total": 317.34,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 698,
+    "customer_id": 3,
+    "total": 457.66,
+    "date": "2023-02-09"
+  },
+  {
+    "id": 699,
+    "customer_id": 7,
+    "total": 908.02,
+    "date": "2023-03-10"
+  },
+  {
+    "id": 700,
+    "customer_id": 12,
+    "total": 971.38,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 701,
+    "customer_id": 15,
+    "total": 208.58,
+    "date": "2023-03-31"
+  },
+  {
+    "id": 702,
+    "customer_id": 2,
+    "total": 383.77,
+    "date": "2023-03-17"
+  },
+  {
+    "id": 703,
+    "customer_id": 5,
+    "total": 10.34,
+    "date": "2023-03-14"
+  },
+  {
+    "id": 704,
+    "customer_id": 15,
+    "total": 116.22,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 705,
+    "customer_id": 99,
+    "total": 134.57,
+    "date": "2023-01-12"
+  },
+  {
+    "id": 706,
+    "customer_id": 17,
+    "total": 428.61,
+    "date": "2023-02-27"
+  },
+  {
+    "id": 707,
+    "customer_id": 32,
+    "total": 672.1,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 708,
+    "customer_id": 71,
+    "total": 911.43,
+    "date": "2023-01-20"
+  },
+  {
+    "id": 709,
+    "customer_id": 20,
+    "total": 952.3,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 710,
+    "customer_id": 61,
+    "total": 350.51,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 711,
+    "customer_id": 35,
+    "total": 127.98,
+    "date": "2023-02-25"
+  },
+  {
+    "id": 712,
+    "customer_id": 70,
+    "total": 678.41,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 713,
+    "customer_id": 47,
+    "total": 927.85,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 714,
+    "customer_id": 95,
+    "total": 546.18,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 715,
+    "customer_id": 91,
+    "total": 466.13,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 716,
+    "customer_id": 94,
+    "total": 548.81,
+    "date": "2023-03-17"
+  },
+  {
+    "id": 717,
+    "customer_id": 38,
+    "total": 342.54,
+    "date": "2023-02-04"
+  },
+  {
+    "id": 718,
+    "customer_id": 41,
+    "total": 273.78,
+    "date": "2023-02-27"
+  },
+  {
+    "id": 719,
+    "customer_id": 52,
+    "total": 922.38,
+    "date": "2023-03-07"
+  },
+  {
+    "id": 720,
+    "customer_id": 0,
+    "total": 451.24,
+    "date": "2023-01-03"
+  },
+  {
+    "id": 721,
+    "customer_id": 40,
+    "total": 418.35,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 722,
+    "customer_id": 47,
+    "total": 578.93,
+    "date": "2023-03-17"
+  },
+  {
+    "id": 723,
+    "customer_id": 64,
+    "total": 706.02,
+    "date": "2023-02-23"
+  },
+  {
+    "id": 724,
+    "customer_id": 63,
+    "total": 356.92,
+    "date": "2023-02-16"
+  },
+  {
+    "id": 725,
+    "customer_id": 38,
+    "total": 146.44,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 726,
+    "customer_id": 6,
+    "total": 875.27,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 727,
+    "customer_id": 40,
+    "total": 999.63,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 728,
+    "customer_id": 8,
+    "total": 391.22,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 729,
+    "customer_id": 35,
+    "total": 522.3,
+    "date": "2023-01-30"
+  },
+  {
+    "id": 730,
+    "customer_id": 61,
+    "total": 654.39,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 731,
+    "customer_id": 79,
+    "total": 474.37,
+    "date": "2023-01-06"
+  },
+  {
+    "id": 732,
+    "customer_id": 70,
+    "total": 872.42,
+    "date": "2023-03-12"
+  },
+  {
+    "id": 733,
+    "customer_id": 48,
+    "total": 695.92,
+    "date": "2023-03-18"
+  },
+  {
+    "id": 734,
+    "customer_id": 59,
+    "total": 327.36,
+    "date": "2023-01-05"
+  },
+  {
+    "id": 735,
+    "customer_id": 59,
+    "total": 154.21,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 736,
+    "customer_id": 19,
+    "total": 32.26,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 737,
+    "customer_id": 55,
+    "total": 373.89,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 738,
+    "customer_id": 82,
+    "total": 745.8,
+    "date": "2023-02-09"
+  },
+  {
+    "id": 739,
+    "customer_id": 30,
+    "total": 132.05,
+    "date": "2023-01-29"
+  },
+  {
+    "id": 740,
+    "customer_id": 77,
+    "total": 507.03,
+    "date": "2023-01-19"
+  },
+  {
+    "id": 741,
+    "customer_id": 25,
+    "total": 445.42,
+    "date": "2023-03-08"
+  },
+  {
+    "id": 742,
+    "customer_id": 12,
+    "total": 240.12,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 743,
+    "customer_id": 94,
+    "total": 676.51,
+    "date": "2023-01-12"
+  },
+  {
+    "id": 744,
+    "customer_id": 20,
+    "total": 989.23,
+    "date": "2023-01-03"
+  },
+  {
+    "id": 745,
+    "customer_id": 88,
+    "total": 159.53,
+    "date": "2023-01-03"
+  },
+  {
+    "id": 746,
+    "customer_id": 78,
+    "total": 147.92,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 747,
+    "customer_id": 90,
+    "total": 881.2,
+    "date": "2023-03-27"
+  },
+  {
+    "id": 748,
+    "customer_id": 46,
+    "total": 721.96,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 749,
+    "customer_id": 88,
+    "total": 29.41,
+    "date": "2023-03-16"
+  },
+  {
+    "id": 750,
+    "customer_id": 71,
+    "total": 82.33,
+    "date": "2023-01-16"
+  },
+  {
+    "id": 751,
+    "customer_id": 6,
+    "total": 996.89,
+    "date": "2023-01-23"
+  },
+  {
+    "id": 752,
+    "customer_id": 79,
+    "total": 930.13,
+    "date": "2023-01-24"
+  },
+  {
+    "id": 753,
+    "customer_id": 50,
+    "total": 93.71,
+    "date": "2023-01-19"
+  },
+  {
+    "id": 754,
+    "customer_id": 24,
+    "total": 221.2,
+    "date": "2023-02-19"
+  },
+  {
+    "id": 755,
+    "customer_id": 34,
+    "total": 308.37,
+    "date": "2023-02-19"
+  },
+  {
+    "id": 756,
+    "customer_id": 58,
+    "total": 788.21,
+    "date": "2023-01-02"
+  },
+  {
+    "id": 757,
+    "customer_id": 27,
+    "total": 249.52,
+    "date": "2023-01-21"
+  },
+  {
+    "id": 758,
+    "customer_id": 88,
+    "total": 967.72,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 759,
+    "customer_id": 18,
+    "total": 686.91,
+    "date": "2023-01-14"
+  },
+  {
+    "id": 760,
+    "customer_id": 83,
+    "total": 352.51,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 761,
+    "customer_id": 97,
+    "total": 474.61,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 762,
+    "customer_id": 1,
+    "total": 469.95,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 763,
+    "customer_id": 65,
+    "total": 499.08,
+    "date": "2023-01-07"
+  },
+  {
+    "id": 764,
+    "customer_id": 0,
+    "total": 453.52,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 765,
+    "customer_id": 71,
+    "total": 410.32,
+    "date": "2023-02-01"
+  },
+  {
+    "id": 766,
+    "customer_id": 31,
+    "total": 18.11,
+    "date": "2023-03-16"
+  },
+  {
+    "id": 767,
+    "customer_id": 37,
+    "total": 266.09,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 768,
+    "customer_id": 47,
+    "total": 82.09,
+    "date": "2023-01-17"
+  },
+  {
+    "id": 769,
+    "customer_id": 62,
+    "total": 280.45,
+    "date": "2023-02-20"
+  },
+  {
+    "id": 770,
+    "customer_id": 70,
+    "total": 597.41,
+    "date": "2023-01-17"
+  },
+  {
+    "id": 771,
+    "customer_id": 82,
+    "total": 112.29,
+    "date": "2023-01-24"
+  },
+  {
+    "id": 772,
+    "customer_id": 48,
+    "total": 468.39,
+    "date": "2023-01-13"
+  },
+  {
+    "id": 773,
+    "customer_id": 11,
+    "total": 925.25,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 774,
+    "customer_id": 8,
+    "total": 702.83,
+    "date": "2023-02-20"
+  },
+  {
+    "id": 775,
+    "customer_id": 91,
+    "total": 813,
+    "date": "2023-02-15"
+  },
+  {
+    "id": 776,
+    "customer_id": 53,
+    "total": 894.52,
+    "date": "2023-01-01"
+  },
+  {
+    "id": 777,
+    "customer_id": 4,
+    "total": 170.82,
+    "date": "2023-02-17"
+  },
+  {
+    "id": 778,
+    "customer_id": 77,
+    "total": 566.45,
+    "date": "2023-01-10"
+  },
+  {
+    "id": 779,
+    "customer_id": 22,
+    "total": 341.44,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 780,
+    "customer_id": 29,
+    "total": 688.31,
+    "date": "2023-02-21"
+  },
+  {
+    "id": 781,
+    "customer_id": 21,
+    "total": 310.41,
+    "date": "2023-03-17"
+  },
+  {
+    "id": 782,
+    "customer_id": 92,
+    "total": 844.5,
+    "date": "2023-01-29"
+  },
+  {
+    "id": 783,
+    "customer_id": 64,
+    "total": 327.94,
+    "date": "2023-03-09"
+  },
+  {
+    "id": 784,
+    "customer_id": 13,
+    "total": 89.65,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 785,
+    "customer_id": 13,
+    "total": 311.23,
+    "date": "2023-03-12"
+  },
+  {
+    "id": 786,
+    "customer_id": 14,
+    "total": 878.05,
+    "date": "2023-01-10"
+  },
+  {
+    "id": 787,
+    "customer_id": 39,
+    "total": 73.19,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 788,
+    "customer_id": 48,
+    "total": 620.8,
+    "date": "2023-02-27"
+  },
+  {
+    "id": 789,
+    "customer_id": 2,
+    "total": 904.43,
+    "date": "2023-01-26"
+  },
+  {
+    "id": 790,
+    "customer_id": 58,
+    "total": 973.18,
+    "date": "2023-03-18"
+  },
+  {
+    "id": 791,
+    "customer_id": 80,
+    "total": 978.9,
+    "date": "2023-03-09"
+  },
+  {
+    "id": 792,
+    "customer_id": 57,
+    "total": 208.88,
+    "date": "2023-01-03"
+  },
+  {
+    "id": 793,
+    "customer_id": 20,
+    "total": 708,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 794,
+    "customer_id": 49,
+    "total": 962.78,
+    "date": "2023-02-22"
+  },
+  {
+    "id": 795,
+    "customer_id": 1,
+    "total": 752.55,
+    "date": "2023-01-09"
+  },
+  {
+    "id": 796,
+    "customer_id": 96,
+    "total": 274.64,
+    "date": "2023-01-03"
+  },
+  {
+    "id": 797,
+    "customer_id": 32,
+    "total": 986.74,
+    "date": "2023-03-20"
+  },
+  {
+    "id": 798,
+    "customer_id": 45,
+    "total": 688.53,
+    "date": "2023-02-11"
+  },
+  {
+    "id": 799,
+    "customer_id": 26,
+    "total": 921.47,
+    "date": "2023-03-07"
+  },
+  {
+    "id": 800,
+    "customer_id": 1,
+    "total": 492.63,
+    "date": "2023-01-17"
+  },
+  {
+    "id": 801,
+    "customer_id": 65,
+    "total": 258.14,
+    "date": "2023-01-08"
+  },
+  {
+    "id": 802,
+    "customer_id": 21,
+    "total": 976.18,
+    "date": "2023-03-05"
+  },
+  {
+    "id": 803,
+    "customer_id": 35,
+    "total": 859.02,
+    "date": "2023-02-16"
+  },
+  {
+    "id": 804,
+    "customer_id": 22,
+    "total": 777.31,
+    "date": "2023-01-30"
+  },
+  {
+    "id": 805,
+    "customer_id": 50,
+    "total": 204.98,
+    "date": "2023-02-15"
+  },
+  {
+    "id": 806,
+    "customer_id": 58,
+    "total": 973.75,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 807,
+    "customer_id": 74,
+    "total": 790.45,
+    "date": "2023-01-09"
+  },
+  {
+    "id": 808,
+    "customer_id": 58,
+    "total": 667.74,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 809,
+    "customer_id": 54,
+    "total": 711.45,
+    "date": "2023-03-14"
+  },
+  {
+    "id": 810,
+    "customer_id": 66,
+    "total": 350.08,
+    "date": "2023-01-12"
+  },
+  {
+    "id": 811,
+    "customer_id": 90,
+    "total": 38.24,
+    "date": "2023-03-27"
+  },
+  {
+    "id": 812,
+    "customer_id": 50,
+    "total": 804.26,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 813,
+    "customer_id": 60,
+    "total": 567.62,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 814,
+    "customer_id": 83,
+    "total": 99.97,
+    "date": "2023-03-09"
+  },
+  {
+    "id": 815,
+    "customer_id": 93,
+    "total": 508.8,
+    "date": "2023-03-31"
+  },
+  {
+    "id": 816,
+    "customer_id": 18,
+    "total": 124.33,
+    "date": "2023-02-16"
+  },
+  {
+    "id": 817,
+    "customer_id": 9,
+    "total": 867.63,
+    "date": "2023-01-20"
+  },
+  {
+    "id": 818,
+    "customer_id": 44,
+    "total": 385.38,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 819,
+    "customer_id": 55,
+    "total": 104.14,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 820,
+    "customer_id": 95,
+    "total": 634.3,
+    "date": "2023-02-20"
+  },
+  {
+    "id": 821,
+    "customer_id": 10,
+    "total": 285.73,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 822,
+    "customer_id": 24,
+    "total": 991.49,
+    "date": "2023-03-26"
+  },
+  {
+    "id": 823,
+    "customer_id": 48,
+    "total": 787.97,
+    "date": "2023-02-10"
+  },
+  {
+    "id": 824,
+    "customer_id": 85,
+    "total": 932.5,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 825,
+    "customer_id": 47,
+    "total": 558.32,
     "date": "2023-01-31"
   },
   {
     "id": 826,
-    "customer_id": 54,
-    "total": 476.5,
-    "date": "2023-01-02"
+    "customer_id": 25,
+    "total": 397.69,
+    "date": "2023-03-10"
   },
   {
     "id": 827,
-    "customer_id": 27,
-    "total": 804.07,
-    "date": "2023-01-11"
+    "customer_id": 83,
+    "total": 109.93,
+    "date": "2023-01-04"
   },
   {
     "id": 828,
-    "customer_id": 37,
-    "total": 172.43,
-    "date": "2023-01-14"
+    "customer_id": 47,
+    "total": 738.51,
+    "date": "2023-03-12"
   },
   {
     "id": 829,
-    "customer_id": 89,
-    "total": 170.94,
-    "date": "2023-02-08"
+    "customer_id": 31,
+    "total": 358.66,
+    "date": "2023-03-08"
   },
   {
     "id": 830,
-    "customer_id": 50,
-    "total": 267.41,
-    "date": "2023-01-27"
+    "customer_id": 93,
+    "total": 152.5,
+    "date": "2023-03-13"
   },
   {
     "id": 831,
-    "customer_id": 99,
-    "total": 71.29,
-    "date": "2023-02-15"
+    "customer_id": 100,
+    "total": 486.84,
+    "date": "2023-02-27"
   },
   {
     "id": 832,
-    "customer_id": 74,
-    "total": 234.73,
-    "date": "2023-02-19"
+    "customer_id": 7,
+    "total": 134.29,
+    "date": "2023-03-27"
   },
   {
     "id": 833,
-    "customer_id": 79,
-    "total": 569.86,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 834,
-    "customer_id": 37,
-    "total": 986.72,
-    "date": "2023-01-17"
-  },
-  {
-    "id": 835,
-    "customer_id": 16,
-    "total": 768.24,
+    "customer_id": 3,
+    "total": 645.45,
     "date": "2023-01-26"
   },
   {
+    "id": 834,
+    "customer_id": 57,
+    "total": 689.16,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 835,
+    "customer_id": 19,
+    "total": 438.33,
+    "date": "2023-02-25"
+  },
+  {
     "id": 836,
-    "customer_id": 77,
-    "total": 312.79,
-    "date": "2023-01-08"
+    "customer_id": 26,
+    "total": 71,
+    "date": "2023-03-22"
   },
   {
     "id": 837,
-    "customer_id": 41,
-    "total": 381.08,
-    "date": "2023-01-07"
+    "customer_id": 76,
+    "total": 695,
+    "date": "2023-01-09"
   },
   {
     "id": 838,
-    "customer_id": 63,
-    "total": 590.49,
-    "date": "2023-01-23"
+    "customer_id": 13,
+    "total": 43.95,
+    "date": "2023-03-22"
   },
   {
     "id": 839,
-    "customer_id": 87,
-    "total": 624.26,
-    "date": "2023-02-20"
+    "customer_id": 46,
+    "total": 652.41,
+    "date": "2023-03-27"
   },
   {
     "id": 840,
     "customer_id": 26,
-    "total": 457.4,
-    "date": "2023-01-10"
+    "total": 318.38,
+    "date": "2023-02-24"
   },
   {
     "id": 841,
     "customer_id": 95,
-    "total": 130.77,
-    "date": "2023-01-27"
+    "total": 850.92,
+    "date": "2023-03-08"
   },
   {
     "id": 842,
-    "customer_id": 22,
-    "total": 970.63,
-    "date": "2023-02-06"
+    "customer_id": 61,
+    "total": 115.27,
+    "date": "2023-01-06"
   },
   {
     "id": 843,
-    "customer_id": 19,
-    "total": 665.64,
-    "date": "2023-02-24"
+    "customer_id": 21,
+    "total": 694.33,
+    "date": "2023-03-29"
   },
   {
     "id": 844,
-    "customer_id": 64,
-    "total": 428.95,
-    "date": "2023-02-23"
+    "customer_id": 51,
+    "total": 613.51,
+    "date": "2023-02-25"
   },
   {
     "id": 845,
-    "customer_id": 15,
-    "total": 173.08,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 846,
-    "customer_id": 11,
-    "total": 328.33,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 847,
-    "customer_id": 34,
-    "total": 92.07,
-    "date": "2023-02-04"
-  },
-  {
-    "id": 848,
-    "customer_id": 28,
-    "total": 715.48,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 849,
-    "customer_id": 54,
-    "total": 490.89,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 850,
-    "customer_id": 66,
-    "total": 871.02,
-    "date": "2023-02-14"
-  },
-  {
-    "id": 851,
-    "customer_id": 14,
-    "total": 464.47,
-    "date": "2023-02-04"
-  },
-  {
-    "id": 852,
-    "customer_id": 67,
-    "total": 393.92,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 853,
-    "customer_id": 70,
-    "total": 460.14,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 854,
-    "customer_id": 57,
-    "total": 961.18,
-    "date": "2023-02-13"
-  },
-  {
-    "id": 855,
-    "customer_id": 7,
-    "total": 391.21,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 856,
-    "customer_id": 23,
-    "total": 626.9,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 857,
-    "customer_id": 52,
-    "total": 970.41,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 858,
-    "customer_id": 32,
-    "total": 671.26,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 859,
-    "customer_id": 80,
-    "total": 896.75,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 860,
-    "customer_id": 92,
-    "total": 670.29,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 861,
-    "customer_id": 55,
-    "total": 86.22,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 862,
-    "customer_id": 65,
-    "total": 275.62,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 863,
-    "customer_id": 16,
-    "total": 730.75,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 864,
-    "customer_id": 47,
-    "total": 610.21,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 865,
-    "customer_id": 76,
-    "total": 84.17,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 866,
-    "customer_id": 23,
-    "total": 244.21,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 867,
-    "customer_id": 87,
-    "total": 786.6,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 868,
-    "customer_id": 3,
-    "total": 216.73,
-    "date": "2023-01-14"
-  },
-  {
-    "id": 869,
-    "customer_id": 16,
-    "total": 667.21,
-    "date": "2023-02-16"
-  },
-  {
-    "id": 870,
-    "customer_id": 11,
-    "total": 931.9,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 871,
-    "customer_id": 28,
-    "total": 899.35,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 872,
-    "customer_id": 60,
-    "total": 138.88,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 873,
-    "customer_id": 70,
-    "total": 256.39,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 874,
-    "customer_id": 92,
-    "total": 543.96,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 875,
-    "customer_id": 31,
-    "total": 783.99,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 876,
-    "customer_id": 56,
-    "total": 322.53,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 877,
-    "customer_id": 25,
-    "total": 54.7,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 878,
-    "customer_id": 64,
-    "total": 772.56,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 879,
-    "customer_id": 65,
-    "total": 25.77,
-    "date": "2023-02-12"
-  },
-  {
-    "id": 880,
     "customer_id": 5,
-    "total": 106.09,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 881,
-    "customer_id": 21,
-    "total": 513.16,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 882,
-    "customer_id": 25,
-    "total": 645.34,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 883,
-    "customer_id": 45,
-    "total": 31.98,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 884,
-    "customer_id": 7,
-    "total": 606.44,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 885,
-    "customer_id": 56,
-    "total": 609.36,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 886,
-    "customer_id": 38,
-    "total": 269.66,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 887,
-    "customer_id": 3,
-    "total": 815.61,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 888,
-    "customer_id": 66,
-    "total": 377.6,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 889,
-    "customer_id": 26,
-    "total": 563.88,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 890,
-    "customer_id": 48,
-    "total": 128.23,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 891,
-    "customer_id": 9,
-    "total": 366.71,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 892,
-    "customer_id": 56,
-    "total": 174.55,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 893,
-    "customer_id": 27,
-    "total": 523.01,
-    "date": "2023-02-04"
-  },
-  {
-    "id": 894,
-    "customer_id": 95,
-    "total": 972.08,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 895,
-    "customer_id": 56,
-    "total": 637.8,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 896,
-    "customer_id": 25,
-    "total": 754.99,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 897,
-    "customer_id": 27,
-    "total": 352.6,
-    "date": "2023-01-14"
-  },
-  {
-    "id": 898,
-    "customer_id": 93,
-    "total": 403.93,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 899,
-    "customer_id": 19,
-    "total": 451.6,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 900,
-    "customer_id": 54,
-    "total": 173.41,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 901,
-    "customer_id": 44,
-    "total": 417.66,
-    "date": "2023-02-09"
-  },
-  {
-    "id": 902,
-    "customer_id": 10,
-    "total": 837.71,
-    "date": "2023-01-13"
-  },
-  {
-    "id": 903,
-    "customer_id": 33,
-    "total": 765.43,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 904,
-    "customer_id": 100,
-    "total": 105.95,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 905,
-    "customer_id": 51,
-    "total": 508.3,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 906,
-    "customer_id": 79,
-    "total": 642.37,
-    "date": "2023-01-02"
-  },
-  {
-    "id": 907,
-    "customer_id": 9,
-    "total": 331.82,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 908,
-    "customer_id": 64,
-    "total": 596.21,
-    "date": "2023-01-05"
-  },
-  {
-    "id": 909,
-    "customer_id": 90,
-    "total": 247.29,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 910,
-    "customer_id": 25,
-    "total": 43.37,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 911,
-    "customer_id": 1,
-    "total": 664.29,
-    "date": "2023-02-23"
-  },
-  {
-    "id": 912,
-    "customer_id": 48,
-    "total": 875.23,
-    "date": "2023-01-18"
-  },
-  {
-    "id": 913,
-    "customer_id": 54,
-    "total": 800.28,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 914,
-    "customer_id": 92,
-    "total": 604.29,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 915,
-    "customer_id": 71,
-    "total": 687.23,
-    "date": "2023-01-28"
-  },
-  {
-    "id": 916,
-    "customer_id": 99,
-    "total": 349.45,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 917,
-    "customer_id": 54,
-    "total": 341.71,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 918,
-    "customer_id": 88,
-    "total": 284.4,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 919,
-    "customer_id": 68,
-    "total": 587.92,
-    "date": "2023-01-16"
-  },
-  {
-    "id": 920,
-    "customer_id": 18,
-    "total": 620.56,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 921,
-    "customer_id": 46,
-    "total": 841.4,
-    "date": "2023-01-19"
-  },
-  {
-    "id": 922,
-    "customer_id": 1,
-    "total": 844.35,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 923,
-    "customer_id": 74,
-    "total": 255.36,
+    "total": 100.94,
     "date": "2023-01-10"
   },
   {
-    "id": 924,
-    "customer_id": 15,
-    "total": 779.87,
-    "date": "2023-02-08"
+    "id": 846,
+    "customer_id": 72,
+    "total": 257.26,
+    "date": "2023-02-16"
   },
   {
-    "id": 925,
-    "customer_id": 73,
-    "total": 927.82,
-    "date": "2023-01-20"
+    "id": 847,
+    "customer_id": 57,
+    "total": 463.47,
+    "date": "2023-03-09"
   },
   {
-    "id": 926,
-    "customer_id": 19,
-    "total": 90.62,
+    "id": 848,
+    "customer_id": 3,
+    "total": 974.31,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 849,
+    "customer_id": 34,
+    "total": 640.49,
+    "date": "2023-03-21"
+  },
+  {
+    "id": 850,
+    "customer_id": 47,
+    "total": 610.98,
     "date": "2023-02-07"
   },
   {
-    "id": 927,
-    "customer_id": 50,
-    "total": 134.51,
+    "id": 851,
+    "customer_id": 13,
+    "total": 346.9,
+    "date": "2023-03-12"
+  },
+  {
+    "id": 852,
+    "customer_id": 34,
+    "total": 375.39,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 853,
+    "customer_id": 41,
+    "total": 830.8,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 854,
+    "customer_id": 78,
+    "total": 775.25,
     "date": "2023-01-14"
   },
   {
-    "id": 928,
-    "customer_id": 65,
-    "total": 20.93,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 929,
-    "customer_id": 69,
-    "total": 801.58,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 930,
-    "customer_id": 92,
-    "total": 975.84,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 931,
-    "customer_id": 84,
-    "total": 46.2,
-    "date": "2023-01-08"
-  },
-  {
-    "id": 932,
-    "customer_id": 25,
-    "total": 693.61,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 933,
-    "customer_id": 7,
-    "total": 121.44,
-    "date": "2023-01-26"
-  },
-  {
-    "id": 934,
-    "customer_id": 36,
-    "total": 697.91,
-    "date": "2023-02-23"
-  },
-  {
-    "id": 935,
-    "customer_id": 97,
-    "total": 722.13,
-    "date": "2023-02-07"
-  },
-  {
-    "id": 936,
-    "customer_id": 82,
-    "total": 564.49,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 937,
-    "customer_id": 96,
-    "total": 919.83,
-    "date": "2023-02-18"
-  },
-  {
-    "id": 938,
-    "customer_id": 97,
-    "total": 931.91,
-    "date": "2023-02-26"
-  },
-  {
-    "id": 939,
-    "customer_id": 8,
-    "total": 213.7,
-    "date": "2023-01-12"
-  },
-  {
-    "id": 940,
-    "customer_id": 40,
-    "total": 937.18,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 941,
-    "customer_id": 22,
-    "total": 296.36,
-    "date": "2023-01-22"
-  },
-  {
-    "id": 942,
-    "customer_id": 21,
-    "total": 616.79,
-    "date": "2023-01-15"
-  },
-  {
-    "id": 943,
-    "customer_id": 75,
-    "total": 218.19,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 944,
-    "customer_id": 24,
-    "total": 749.59,
-    "date": "2023-01-22"
-  },
-  {
-    "id": 945,
-    "customer_id": 93,
-    "total": 550.07,
-    "date": "2023-01-22"
-  },
-  {
-    "id": 946,
-    "customer_id": 55,
-    "total": 411.05,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 947,
-    "customer_id": 17,
-    "total": 649.1,
-    "date": "2023-01-03"
-  },
-  {
-    "id": 948,
-    "customer_id": 3,
-    "total": 707.12,
-    "date": "2023-02-10"
-  },
-  {
-    "id": 949,
-    "customer_id": 14,
-    "total": 301.57,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 950,
-    "customer_id": 76,
-    "total": 935.18,
-    "date": "2023-01-11"
-  },
-  {
-    "id": 951,
-    "customer_id": 58,
-    "total": 884.9,
-    "date": "2023-01-21"
-  },
-  {
-    "id": 952,
-    "customer_id": 53,
-    "total": 817.8,
-    "date": "2023-02-01"
-  },
-  {
-    "id": 953,
-    "customer_id": 21,
-    "total": 165.81,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 954,
-    "customer_id": 0,
-    "total": 941.96,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 955,
-    "customer_id": 13,
-    "total": 363.1,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 956,
-    "customer_id": 38,
-    "total": 929.32,
-    "date": "2023-02-20"
-  },
-  {
-    "id": 957,
-    "customer_id": 58,
-    "total": 113.37,
-    "date": "2023-02-19"
-  },
-  {
-    "id": 958,
-    "customer_id": 96,
-    "total": 424.61,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 959,
-    "customer_id": 2,
-    "total": 557,
-    "date": "2023-02-13"
-  },
-  {
-    "id": 960,
-    "customer_id": 94,
-    "total": 28.35,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 961,
-    "customer_id": 36,
-    "total": 247.68,
-    "date": "2023-02-14"
-  },
-  {
-    "id": 962,
-    "customer_id": 89,
-    "total": 721.16,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 963,
-    "customer_id": 5,
-    "total": 252.92,
-    "date": "2023-01-31"
-  },
-  {
-    "id": 964,
-    "customer_id": 83,
-    "total": 968.04,
-    "date": "2023-01-07"
-  },
-  {
-    "id": 965,
-    "customer_id": 46,
-    "total": 189.92,
+    "id": 855,
+    "customer_id": 64,
+    "total": 218.07,
     "date": "2023-01-01"
   },
   {
-    "id": 966,
-    "customer_id": 15,
-    "total": 673.14,
-    "date": "2023-02-11"
-  },
-  {
-    "id": 967,
-    "customer_id": 90,
-    "total": 105.7,
-    "date": "2023-01-09"
-  },
-  {
-    "id": 968,
-    "customer_id": 40,
-    "total": 542.63,
-    "date": "2023-02-05"
-  },
-  {
-    "id": 969,
-    "customer_id": 47,
-    "total": 87.16,
-    "date": "2023-01-22"
-  },
-  {
-    "id": 970,
-    "customer_id": 57,
-    "total": 154.87,
+    "id": 856,
+    "customer_id": 93,
+    "total": 924.83,
     "date": "2023-01-15"
   },
   {
-    "id": 971,
-    "customer_id": 26,
-    "total": 736.6,
-    "date": "2023-01-20"
+    "id": 857,
+    "customer_id": 79,
+    "total": 623.62,
+    "date": "2023-03-05"
   },
   {
-    "id": 972,
-    "customer_id": 46,
-    "total": 426.06,
-    "date": "2023-01-09"
+    "id": 858,
+    "customer_id": 77,
+    "total": 877.44,
+    "date": "2023-01-29"
   },
   {
-    "id": 973,
-    "customer_id": 25,
-    "total": 835.84,
-    "date": "2023-01-25"
-  },
-  {
-    "id": 974,
-    "customer_id": 2,
-    "total": 889.13,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 975,
-    "customer_id": 91,
-    "total": 995.05,
+    "id": 859,
+    "customer_id": 63,
+    "total": 672.99,
     "date": "2023-01-13"
   },
   {
-    "id": 976,
+    "id": 860,
+    "customer_id": 51,
+    "total": 316.12,
+    "date": "2023-02-18"
+  },
+  {
+    "id": 861,
+    "customer_id": 88,
+    "total": 612.26,
+    "date": "2023-02-07"
+  },
+  {
+    "id": 862,
     "customer_id": 83,
-    "total": 901.59,
-    "date": "2023-01-06"
+    "total": 994.78,
+    "date": "2023-01-02"
   },
   {
-    "id": 977,
-    "customer_id": 95,
-    "total": 296.09,
-    "date": "2023-01-01"
+    "id": 863,
+    "customer_id": 28,
+    "total": 911.98,
+    "date": "2023-03-28"
   },
   {
-    "id": 978,
-    "customer_id": 86,
-    "total": 764.15,
-    "date": "2023-01-23"
+    "id": 864,
+    "customer_id": 56,
+    "total": 630.12,
+    "date": "2023-03-07"
   },
   {
-    "id": 979,
-    "customer_id": 53,
-    "total": 713.4,
-    "date": "2023-01-14"
+    "id": 865,
+    "customer_id": 35,
+    "total": 532.63,
+    "date": "2023-01-03"
   },
   {
-    "id": 980,
+    "id": 866,
+    "customer_id": 25,
+    "total": 322.51,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 867,
     "customer_id": 5,
-    "total": 959.87,
-    "date": "2023-01-29"
-  },
-  {
-    "id": 981,
-    "customer_id": 27,
-    "total": 40.24,
-    "date": "2023-01-17"
-  },
-  {
-    "id": 982,
-    "customer_id": 68,
-    "total": 637.81,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 983,
-    "customer_id": 25,
-    "total": 819.65,
-    "date": "2023-01-20"
-  },
-  {
-    "id": 984,
-    "customer_id": 77,
-    "total": 637.99,
-    "date": "2023-02-15"
-  },
-  {
-    "id": 985,
-    "customer_id": 25,
-    "total": 10.06,
-    "date": "2023-02-02"
-  },
-  {
-    "id": 986,
-    "customer_id": 61,
-    "total": 783.69,
-    "date": "2023-01-27"
-  },
-  {
-    "id": 987,
-    "customer_id": 97,
-    "total": 939.17,
-    "date": "2023-02-27"
-  },
-  {
-    "id": 988,
-    "customer_id": 7,
-    "total": 456.18,
-    "date": "2023-02-17"
-  },
-  {
-    "id": 989,
-    "customer_id": 34,
-    "total": 748.63,
-    "date": "2023-02-06"
-  },
-  {
-    "id": 990,
-    "customer_id": 67,
-    "total": 435.13,
-    "date": "2023-01-06"
-  },
-  {
-    "id": 991,
-    "customer_id": 11,
-    "total": 201.5,
-    "date": "2023-02-13"
-  },
-  {
-    "id": 992,
-    "customer_id": 30,
-    "total": 647.79,
-    "date": "2023-01-24"
-  },
-  {
-    "id": 993,
-    "customer_id": 29,
-    "total": 940.22,
-    "date": "2023-01-01"
-  },
-  {
-    "id": 994,
-    "customer_id": 87,
-    "total": 464.22,
-    "date": "2023-02-03"
-  },
-  {
-    "id": 995,
-    "customer_id": 83,
-    "total": 118.43,
-    "date": "2023-02-22"
-  },
-  {
-    "id": 996,
-    "customer_id": 81,
-    "total": 423.82,
+    "total": 30,
     "date": "2023-01-30"
   },
   {
-    "id": 997,
+    "id": 868,
+    "customer_id": 63,
+    "total": 537.96,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 869,
+    "customer_id": 17,
+    "total": 327.85,
+    "date": "2023-02-18"
+  },
+  {
+    "id": 870,
+    "customer_id": 57,
+    "total": 17.47,
+    "date": "2023-01-22"
+  },
+  {
+    "id": 871,
+    "customer_id": 89,
+    "total": 559.22,
+    "date": "2023-03-07"
+  },
+  {
+    "id": 872,
+    "customer_id": 45,
+    "total": 473.26,
+    "date": "2023-01-01"
+  },
+  {
+    "id": 873,
+    "customer_id": 46,
+    "total": 996.67,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 874,
+    "customer_id": 36,
+    "total": 137.35,
+    "date": "2023-02-06"
+  },
+  {
+    "id": 875,
+    "customer_id": 53,
+    "total": 62.2,
+    "date": "2023-02-24"
+  },
+  {
+    "id": 876,
+    "customer_id": 34,
+    "total": 532.19,
+    "date": "2023-01-18"
+  },
+  {
+    "id": 877,
+    "customer_id": 19,
+    "total": 293.7,
+    "date": "2023-02-27"
+  },
+  {
+    "id": 878,
+    "customer_id": 5,
+    "total": 997.28,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 879,
+    "customer_id": 42,
+    "total": 262.05,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 880,
+    "customer_id": 8,
+    "total": 452.85,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 881,
+    "customer_id": 96,
+    "total": 221.49,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 882,
+    "customer_id": 91,
+    "total": 949,
+    "date": "2023-01-07"
+  },
+  {
+    "id": 883,
+    "customer_id": 0,
+    "total": 603.57,
+    "date": "2023-02-14"
+  },
+  {
+    "id": 884,
+    "customer_id": 87,
+    "total": 857.78,
+    "date": "2023-02-06"
+  },
+  {
+    "id": 885,
+    "customer_id": 84,
+    "total": 711.74,
+    "date": "2023-03-15"
+  },
+  {
+    "id": 886,
+    "customer_id": 21,
+    "total": 237.67,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 887,
+    "customer_id": 8,
+    "total": 557.77,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 888,
+    "customer_id": 97,
+    "total": 536.05,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 889,
+    "customer_id": 57,
+    "total": 755.34,
+    "date": "2023-03-26"
+  },
+  {
+    "id": 890,
+    "customer_id": 37,
+    "total": 590.39,
+    "date": "2023-01-18"
+  },
+  {
+    "id": 891,
+    "customer_id": 72,
+    "total": 31.63,
+    "date": "2023-02-13"
+  },
+  {
+    "id": 892,
+    "customer_id": 3,
+    "total": 611.1,
+    "date": "2023-02-28"
+  },
+  {
+    "id": 893,
+    "customer_id": 74,
+    "total": 120.31,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 894,
+    "customer_id": 33,
+    "total": 645.21,
+    "date": "2023-01-28"
+  },
+  {
+    "id": 895,
+    "customer_id": 54,
+    "total": 345.69,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 896,
+    "customer_id": 9,
+    "total": 618.05,
+    "date": "2023-03-12"
+  },
+  {
+    "id": 897,
+    "customer_id": 15,
+    "total": 793.96,
+    "date": "2023-01-20"
+  },
+  {
+    "id": 898,
+    "customer_id": 81,
+    "total": 607.28,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 899,
+    "customer_id": 64,
+    "total": 16.12,
+    "date": "2023-03-24"
+  },
+  {
+    "id": 900,
+    "customer_id": 57,
+    "total": 181.31,
+    "date": "2023-02-22"
+  },
+  {
+    "id": 901,
+    "customer_id": 13,
+    "total": 427.83,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 902,
+    "customer_id": 16,
+    "total": 756.88,
+    "date": "2023-03-09"
+  },
+  {
+    "id": 903,
+    "customer_id": 83,
+    "total": 233.57,
+    "date": "2023-01-03"
+  },
+  {
+    "id": 904,
+    "customer_id": 13,
+    "total": 692.66,
+    "date": "2023-03-18"
+  },
+  {
+    "id": 905,
+    "customer_id": 38,
+    "total": 522.22,
+    "date": "2023-01-16"
+  },
+  {
+    "id": 906,
+    "customer_id": 40,
+    "total": 233.06,
+    "date": "2023-01-11"
+  },
+  {
+    "id": 907,
+    "customer_id": 38,
+    "total": 573.42,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 908,
+    "customer_id": 62,
+    "total": 28.75,
+    "date": "2023-03-30"
+  },
+  {
+    "id": 909,
+    "customer_id": 5,
+    "total": 896.13,
+    "date": "2023-02-14"
+  },
+  {
+    "id": 910,
+    "customer_id": 40,
+    "total": 765.6,
+    "date": "2023-01-04"
+  },
+  {
+    "id": 911,
+    "customer_id": 88,
+    "total": 630.6,
+    "date": "2023-03-14"
+  },
+  {
+    "id": 912,
+    "customer_id": 99,
+    "total": 881.69,
+    "date": "2023-03-31"
+  },
+  {
+    "id": 913,
+    "customer_id": 96,
+    "total": 829.65,
+    "date": "2023-01-02"
+  },
+  {
+    "id": 914,
+    "customer_id": 80,
+    "total": 651.36,
+    "date": "2023-03-29"
+  },
+  {
+    "id": 915,
+    "customer_id": 61,
+    "total": 524.39,
+    "date": "2023-03-13"
+  },
+  {
+    "id": 916,
+    "customer_id": 6,
+    "total": 686.42,
+    "date": "2023-02-13"
+  },
+  {
+    "id": 917,
+    "customer_id": 72,
+    "total": 758.67,
+    "date": "2023-02-01"
+  },
+  {
+    "id": 918,
+    "customer_id": 80,
+    "total": 538.02,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 919,
+    "customer_id": 37,
+    "total": 908.09,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 920,
     "customer_id": 67,
-    "total": 306.94,
+    "total": 672.63,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 921,
+    "customer_id": 24,
+    "total": 919.65,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 922,
+    "customer_id": 62,
+    "total": 219.52,
+    "date": "2023-01-12"
+  },
+  {
+    "id": 923,
+    "customer_id": 24,
+    "total": 525.53,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 924,
+    "customer_id": 95,
+    "total": 609.1,
+    "date": "2023-03-28"
+  },
+  {
+    "id": 925,
+    "customer_id": 22,
+    "total": 835.41,
+    "date": "2023-01-23"
+  },
+  {
+    "id": 926,
+    "customer_id": 68,
+    "total": 802.31,
+    "date": "2023-02-13"
+  },
+  {
+    "id": 927,
+    "customer_id": 22,
+    "total": 898.13,
+    "date": "2023-01-04"
+  },
+  {
+    "id": 928,
+    "customer_id": 15,
+    "total": 736.41,
+    "date": "2023-03-31"
+  },
+  {
+    "id": 929,
+    "customer_id": 21,
+    "total": 557.82,
+    "date": "2023-02-01"
+  },
+  {
+    "id": 930,
+    "customer_id": 13,
+    "total": 340.51,
+    "date": "2023-02-17"
+  },
+  {
+    "id": 931,
+    "customer_id": 100,
+    "total": 965.43,
     "date": "2023-01-21"
   },
   {
-    "id": 998,
+    "id": 932,
+    "customer_id": 36,
+    "total": 815.51,
+    "date": "2023-02-06"
+  },
+  {
+    "id": 933,
+    "customer_id": 1,
+    "total": 27.21,
+    "date": "2023-02-27"
+  },
+  {
+    "id": 934,
+    "customer_id": 58,
+    "total": 964.76,
+    "date": "2023-01-18"
+  },
+  {
+    "id": 935,
+    "customer_id": 17,
+    "total": 624.77,
+    "date": "2023-01-20"
+  },
+  {
+    "id": 936,
+    "customer_id": 38,
+    "total": 943.21,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 937,
+    "customer_id": 10,
+    "total": 295.96,
+    "date": "2023-01-01"
+  },
+  {
+    "id": 938,
+    "customer_id": 75,
+    "total": 371.55,
+    "date": "2023-01-14"
+  },
+  {
+    "id": 939,
+    "customer_id": 87,
+    "total": 801.98,
+    "date": "2023-03-12"
+  },
+  {
+    "id": 940,
+    "customer_id": 29,
+    "total": 553.4,
+    "date": "2023-03-10"
+  },
+  {
+    "id": 941,
+    "customer_id": 85,
+    "total": 557.08,
+    "date": "2023-01-11"
+  },
+  {
+    "id": 942,
+    "customer_id": 77,
+    "total": 720.04,
+    "date": "2023-02-21"
+  },
+  {
+    "id": 943,
+    "customer_id": 20,
+    "total": 814.27,
+    "date": "2023-03-01"
+  },
+  {
+    "id": 944,
+    "customer_id": 35,
+    "total": 353.23,
+    "date": "2023-01-31"
+  },
+  {
+    "id": 945,
+    "customer_id": 59,
+    "total": 276.62,
+    "date": "2023-02-08"
+  },
+  {
+    "id": 946,
+    "customer_id": 2,
+    "total": 905.35,
+    "date": "2023-02-18"
+  },
+  {
+    "id": 947,
+    "customer_id": 26,
+    "total": 648.44,
+    "date": "2023-03-09"
+  },
+  {
+    "id": 948,
+    "customer_id": 84,
+    "total": 125.36,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 949,
+    "customer_id": 73,
+    "total": 495.19,
+    "date": "2023-03-04"
+  },
+  {
+    "id": 950,
+    "customer_id": 56,
+    "total": 397.62,
+    "date": "2023-01-09"
+  },
+  {
+    "id": 951,
+    "customer_id": 100,
+    "total": 392.24,
+    "date": "2023-03-27"
+  },
+  {
+    "id": 952,
+    "customer_id": 100,
+    "total": 339.39,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 953,
+    "customer_id": 95,
+    "total": 817.78,
+    "date": "2023-02-04"
+  },
+  {
+    "id": 954,
+    "customer_id": 38,
+    "total": 178.76,
+    "date": "2023-03-31"
+  },
+  {
+    "id": 955,
+    "customer_id": 76,
+    "total": 516.12,
+    "date": "2023-03-14"
+  },
+  {
+    "id": 956,
+    "customer_id": 40,
+    "total": 162.54,
+    "date": "2023-01-11"
+  },
+  {
+    "id": 957,
+    "customer_id": 48,
+    "total": 955.51,
+    "date": "2023-01-08"
+  },
+  {
+    "id": 958,
+    "customer_id": 98,
+    "total": 443.9,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 959,
+    "customer_id": 55,
+    "total": 175.18,
+    "date": "2023-03-19"
+  },
+  {
+    "id": 960,
+    "customer_id": 88,
+    "total": 46.84,
+    "date": "2023-03-25"
+  },
+  {
+    "id": 961,
+    "customer_id": 63,
+    "total": 863.12,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 962,
+    "customer_id": 80,
+    "total": 293.86,
+    "date": "2023-03-26"
+  },
+  {
+    "id": 963,
+    "customer_id": 18,
+    "total": 455.22,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 964,
     "customer_id": 12,
-    "total": 75.84,
-    "date": "2023-01-19"
+    "total": 740.42,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 965,
+    "customer_id": 17,
+    "total": 120.82,
+    "date": "2023-02-11"
+  },
+  {
+    "id": 966,
+    "customer_id": 11,
+    "total": 647.74,
+    "date": "2023-02-26"
+  },
+  {
+    "id": 967,
+    "customer_id": 53,
+    "total": 695.74,
+    "date": "2023-03-22"
+  },
+  {
+    "id": 968,
+    "customer_id": 34,
+    "total": 828.23,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 969,
+    "customer_id": 82,
+    "total": 378.56,
+    "date": "2023-03-12"
+  },
+  {
+    "id": 970,
+    "customer_id": 32,
+    "total": 562.53,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 971,
+    "customer_id": 40,
+    "total": 896.52,
+    "date": "2023-03-17"
+  },
+  {
+    "id": 972,
+    "customer_id": 5,
+    "total": 179.16,
+    "date": "2023-02-08"
+  },
+  {
+    "id": 973,
+    "customer_id": 32,
+    "total": 825.32,
+    "date": "2023-02-02"
+  },
+  {
+    "id": 974,
+    "customer_id": 67,
+    "total": 122.69,
+    "date": "2023-01-07"
+  },
+  {
+    "id": 975,
+    "customer_id": 71,
+    "total": 797.15,
+    "date": "2023-01-30"
+  },
+  {
+    "id": 976,
+    "customer_id": 55,
+    "total": 632.25,
+    "date": "2023-02-17"
+  },
+  {
+    "id": 977,
+    "customer_id": 41,
+    "total": 56.68,
+    "date": "2023-01-21"
+  },
+  {
+    "id": 978,
+    "customer_id": 49,
+    "total": 566.14,
+    "date": "2023-01-25"
+  },
+  {
+    "id": 979,
+    "customer_id": 83,
+    "total": 450.62,
+    "date": "2023-02-15"
+  },
+  {
+    "id": 980,
+    "customer_id": 20,
+    "total": 815.12,
+    "date": "2023-02-05"
+  },
+  {
+    "id": 981,
+    "customer_id": 29,
+    "total": 336.61,
+    "date": "2023-02-27"
+  },
+  {
+    "id": 982,
+    "customer_id": 72,
+    "total": 366.14,
+    "date": "2023-03-03"
+  },
+  {
+    "id": 983,
+    "customer_id": 58,
+    "total": 835.96,
+    "date": "2023-02-17"
+  },
+  {
+    "id": 984,
+    "customer_id": 21,
+    "total": 351.49,
+    "date": "2023-03-10"
+  },
+  {
+    "id": 985,
+    "customer_id": 67,
+    "total": 371.02,
+    "date": "2023-02-05"
+  },
+  {
+    "id": 986,
+    "customer_id": 12,
+    "total": 253.83,
+    "date": "2023-01-21"
+  },
+  {
+    "id": 987,
+    "customer_id": 100,
+    "total": 499.53,
+    "date": "2023-01-20"
+  },
+  {
+    "id": 988,
+    "customer_id": 58,
+    "total": 819.49,
+    "date": "2023-03-06"
+  },
+  {
+    "id": 989,
+    "customer_id": 89,
+    "total": 284.17,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 990,
+    "customer_id": 69,
+    "total": 878.44,
+    "date": "2023-01-27"
+  },
+  {
+    "id": 991,
+    "customer_id": 42,
+    "total": 369.96,
+    "date": "2023-03-15"
+  },
+  {
+    "id": 992,
+    "customer_id": 1,
+    "total": 190.64,
+    "date": "2023-03-02"
+  },
+  {
+    "id": 993,
+    "customer_id": 38,
+    "total": 318.78,
+    "date": "2023-02-08"
+  },
+  {
+    "id": 994,
+    "customer_id": 89,
+    "total": 949.19,
+    "date": "2023-03-14"
+  },
+  {
+    "id": 995,
+    "customer_id": 60,
+    "total": 629.59,
+    "date": "2023-02-04"
+  },
+  {
+    "id": 996,
+    "customer_id": 29,
+    "total": 244.93,
+    "date": "2023-02-21"
+  },
+  {
+    "id": 997,
+    "customer_id": 61,
+    "total": 502.53,
+    "date": "2023-02-05"
+  },
+  {
+    "id": 998,
+    "customer_id": 90,
+    "total": 407.8,
+    "date": "2023-01-29"
   },
   {
     "id": 999,
-    "customer_id": 98,
-    "total": 472.72,
-    "date": "2023-01-15"
+    "customer_id": 95,
+    "total": 218.08,
+    "date": "2023-01-11"
   }
 ]
