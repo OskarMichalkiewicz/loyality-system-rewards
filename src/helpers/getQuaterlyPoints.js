@@ -1,4 +1,4 @@
-export const getQuaterlyPoints = (
+const getQuaterlyPoints = (
   monthlyPoints
 ) => {
   return Object.keys(monthlyPoints).reduce((acc, month) => {
@@ -6,3 +6,4 @@ export const getQuaterlyPoints = (
   }, 0);
 };
 
+export default getQuaterlyPoints;

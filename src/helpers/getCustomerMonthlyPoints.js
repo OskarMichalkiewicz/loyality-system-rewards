@@ -1,4 +1,4 @@
-export const getCustomerMonthlyPoints = (monthlyTransactions) => {
+const getCustomerMonthlyPoints = (monthlyTransactions) => {
   const months = Object.keys(monthlyTransactions);
 
   return months.reduce((acc, month) => {
@@ -12,3 +12,5 @@ export const getCustomerMonthlyPoints = (monthlyTransactions) => {
     return acc;
   }, {});
 };
+
+export default getCustomerMonthlyPoints

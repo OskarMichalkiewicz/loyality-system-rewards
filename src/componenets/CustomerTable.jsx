@@ -1,8 +1,8 @@
-import { getCustomerMonthlyPoints } from "../helpers/getCustomerMonthlyPoints";
-import { sortTransactionsMonthly } from "../helpers/sortTransactionsMonthly";
-import { getQuaterlyPoints } from "../helpers/getQuaterlyPoints";
+import getCustomerMonthlyPoints from "../helpers/getCustomerMonthlyPoints";
+import sortTransactionsMonthly from "../helpers/sortTransactionsMonthly";
+import getQuaterlyPoints from "../helpers/getQuaterlyPoints";
 
-export const CustomerTable = ({ customer, transactions }) => {
+const CustomerTable = ({ customer, transactions }) => {
   const transactionsSorted = sortTransactionsMonthly(customer, transactions);
   const monthlyPoints = getCustomerMonthlyPoints(transactionsSorted);
   const quaterlyPoints = getQuaterlyPoints(monthlyPoints);
@@ -36,3 +36,5 @@ export const CustomerTable = ({ customer, transactions }) => {
     </table>
   );
 };
+
+export default CustomerTable;

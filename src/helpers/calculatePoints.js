@@ -1,4 +1,4 @@
-export const calculatePoints = (total) => {
+const calculatePoints = (total) => {
   const intTotal = Math.trunc(total);
   if (intTotal > 100) {
     const over100Points = (intTotal-100) * 2;
@@ -11,4 +11,5 @@ export const calculatePoints = (total) => {
     return 0;
   }
 };
+export default calculatePoints;
 

@@ -1,16 +1,20 @@
 import { useEffect, useState } from "react";
-import { fetchTransactions } from "../mocks/fetchTransactions";
+import fetchTransactions from "../mocks/fetchTransactions";
 
-export const useFetchTransactions = () => {
+const useFetchTransactions = () => {
   const [transactions, setTransactions] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   const fetch = async () => {
     setTransactions(await fetchTransactions());
+    setLoading(false)
   };
 
   useEffect(() => {
     fetch();
   }, []);
 
-  return transactions;
+  return [ transactions, loading ];
 };
+
+export default useFetchTransactions;

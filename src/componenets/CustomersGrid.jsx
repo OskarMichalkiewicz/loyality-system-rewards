@@ -1,21 +1,30 @@
-import { useFetchCustomers } from "../hooks/useFetchCustomers";
-import { useFetchTransactions } from "../hooks/useFetchTransactions";
-import { CustomerTable } from "./CustomerTable";
-import { Card } from "./Card";
+import useFetchCustomers from "../hooks/useFetchCustomers";
+import useFetchTransactions from "../hooks/useFetchTransactions";
+import CustomerTable from "./CustomerTable";
+import Card from "./Card";
+import Loader from "./Loader"
 
-export const CustomersGrid = () => {
-  const transactions = useFetchTransactions();
-  const customers = useFetchCustomers();
+const CustomersGrid = () => {
+  const [transactions,  transactionsLoading] = useFetchTransactions();
+  const [customers,  customersLoading] = useFetchCustomers();
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 dark:bg-gray-900">
-      {customers.map((customer) => {
-        return (
-          <Card key={customer.id} title={customer.name}>
-            <CustomerTable transactions={transactions} customer={customer} />
-          </Card>
-        );
-      })}
-    </div>
+    <>
+      {transactionsLoading || customersLoading ?
+        <Loader />
+        : 
+
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 bg-gray-900">
+        {customers.map((customer) => {
+          return (
+            <Card key={customer.id} title={customer.name}>
+              <CustomerTable transactions={transactions} customer={customer} />
+            </Card>
+          );
+        })}
+        </div>
+      }
+    </>
   );
 };
+export default CustomersGrid;

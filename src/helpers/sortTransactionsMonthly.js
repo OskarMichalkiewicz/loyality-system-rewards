@@ -1,6 +1,6 @@
-import { calculatePoints } from "./calculatePoints";
+import calculatePoints from "./calculatePoints";
 
-export const sortTransactionsMonthly = ({ id }, transactions) => {
+const sortTransactionsMonthly = ({ id }, transactions) => {
   const customerTransactions = transactions.filter(
     (transaction) => transaction.customer_id === id,
   );
@@ -39,3 +39,5 @@ export const sortTransactionsMonthly = ({ id }, transactions) => {
 
   return transactionsSorted;
 };
+
+export default sortTransactionsMonthly;

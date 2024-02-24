@@ -1,6 +1,6 @@
 import transactions from "../../data/transactions.json";
 
-export const fetchTransactions = async () => {
+const fetchTransactions = async () => {
   return new Promise((resolve) => {
     const timeout = Math.floor(Math.random() * 10) * 1000;
     setTimeout(() => {
@@ -13,3 +13,5 @@ export const fetchTransactions = async () => {
     }, timeout);
   });
 };
+
+export default fetchTransactions;
